@@ -30,7 +30,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Industrial_B</td>
-      <td align="center"> </td>
+      <td align="center"><img src="./pictures/Industrial_B.png"> </td>
       <td align="center">271</td>
       <td align="center">Huawei p30</td>
       <td align="center">15x12x4</td>
@@ -38,7 +38,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Industrial_C</td>
-      <td align="center"> </td>
+      <td align="center"><img src="./pictures/Industrial_C.png"> </td>
       <td align="center">213</td>
       <td align="center">Huawei p30</td>
       <td align="center">7x7x14</td>
@@ -46,7 +46,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Synthetic</td>
-      <td align="center"> </td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
       <td align="center">373</td>
       <td align="center">Virtual pinhole camera</td>
       <td align="center">11x11x2</td>
