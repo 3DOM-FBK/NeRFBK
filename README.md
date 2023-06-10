@@ -22,35 +22,35 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     <tr>
       <td rowspan="4",  align="center" ><strong>Industrial</td>
       <td align="center">Industrial_A</td>
-      <td> align="center"</td>
+      <td align="center"> </td>
       <td align="center">295</td>
       <td align="center">Huawei p30</td>
       <td align="center">5x5x4</td>
       <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td align="center">Industrial_A</td>
-      <td> align="center"</td>
-      <td align="center">295</td>
+      <td align="center">Industrial_B</td>
+      <td align="center"> </td>
+      <td align="center">271</td>
       <td align="center">Huawei p30</td>
-      <td align="center">5x5x4</td>
-      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
+      <td align="center">15x12x4</td>
+      <td align="center">Textureless<br>complex<br>Reflective<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td align="center">Industrial_A</td>
-      <td> align="center"</td>
-      <td align="center">295</td>
+      <td align="center">Industrial_C</td>
+      <td align="center"> </td>
+      <td align="center">213</td>
       <td align="center">Huawei p30</td>
-      <td align="center">5x5x4</td>
-      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
+      <td align="center">7x7x14</td>
+      <td align="center">Textureless<br>complex<br>Reflective<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td align="center">Industrial_A</td>
-      <td> align="center"</td>
-      <td align="center">295</td>
-      <td align="center">Huawei p30</td>
-      <td align="center">5x5x4</td>
-      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
+      <td align="center">Synthetic</td>
+      <td align="center"> </td>
+      <td align="center">373</td>
+      <td align="center">Virtual pinhole camera</td>
+      <td align="center">11x11x2</td>
+      <td align="center">Well-textured<br>complex<br>Ground truth<br>Video</td>
     </tr>
     <tr>
       <td rowspan="4"><strong>Transparent</td>
