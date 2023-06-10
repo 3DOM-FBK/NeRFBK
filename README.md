@@ -6,9 +6,9 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
 ---
 
 ## <a name="classes"></a> Classes 
-|               |     Dataset   |    Images    |  Camera Type |approx size(cm)|  Description  |
-|      :---:    |      :---:    |     :---:    |     :---:    |     :---:     |     :---:     |
-| Content Cell  | Content Cell  | Content Cell | Content Cell |
+|               |     Dataset                  |    Images    |  Camera Type |approx size(cm)|  Description  |
+|      :---:    |      :---:                   |     :---:    |     :---:    |     :---:     |     :---:     |
+| Content Cell  | Industrial_A  |Industrial_A  |       295    | Huawei p30   |      5x5x4    |               |
 | Content Cell  | Content Cell  | Content Cell | Content Cell |
 
 ---
