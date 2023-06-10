@@ -11,25 +11,128 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
 | Content Cell  | Industrial_A  |Industrial_A  |       295    | Huawei p30   |      5x5x4    |    Textureless <br> Small and complex <br> Reflective <br> Two acquisitions  <br> Ground truth  <br> Video |
 | Content Cell  | Content Cell  | Content Cell | Content Cell |
 
-<!-- <style>th{text-align:center}</style> -->
 <table>
 <thead>
-<tr>
-<th></th><th>Dataset</th><th>Images </th><th>Camera Type</th><th>approx size(cm)</th><th>Description</th>
-</tr>
+  <tr>
+    <th></th>
+    <th colspan="2"></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
 </thead>
 <tbody>
-<tr>
-<td>占位符</td><td colspan="2">合并了两列</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="2">合并了两行两列</td><td>$F(x)=x^2$</td>
-</tr>
-<tr>
-<td><b>加粗</b></td>
-</tr>
+  <tr>
+    <td rowspan="4"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
-<table>
+</table>
 
 
 ---
