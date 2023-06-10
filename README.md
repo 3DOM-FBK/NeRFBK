@@ -11,11 +11,11 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
 | Content Cell  | Industrial_A  |Industrial_A  |       295    | Huawei p30   |      5x5x4    |    Textureless <br> Small and complex <br> Reflective <br> Two acquisitions  <br> Ground truth  <br> Video |
 | Content Cell  | Content Cell  | Content Cell | Content Cell |
 
-<style>th{text-align:center}</style>
+<!-- <style>th{text-align:center}</style> -->
 <table>
 <thead>
 <tr>
-<th>A</th><th>B</th><th>C</th>
+<th></th><th>Dataset</th><th>Images </th><th>Camera Type</th><th>approx size(cm)</th><th>Description</th>
 </tr>
 </thead>
 <tbody>
