@@ -7,8 +7,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
 
 ## <a name="classes"></a> Classes 
 
-<div style="text-align:center">
-<table>
+<table  align="center">
 <thead>
   <tr>
     <th></th>
@@ -130,7 +129,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   </tr>
 </tbody>
 </table>
-</div>
 
 
 ---
