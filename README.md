@@ -58,7 +58,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center"><img src="./pictures/Transparent/Glass_A.png"  height="160" width="160"> </td>
       <td align="center">552</td>
       <td align="center">Huawei p30</td>
-      <td align="center">5x5*25</td>
+      <td align="center">5x5x25</td>
       <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
     </tr>
     <tr>
