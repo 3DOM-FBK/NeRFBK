@@ -53,7 +53,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Well-textured<br>complex<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td rowspan="4"><strong>Transparent</td>
+      <td rowspan="4" align="center"><strong>Transparent</td>
       <td align="center">Glass_A</td>
       <td align="center"><img src="./pictures/Transparent/Glass_A.png"  height="160" width="160"> </td>
       <td align="center">552</td>
@@ -86,7 +86,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td rowspan="4"><strong>Heritage</td>
+      <td rowspan="4" align="center"><strong>Heritage</td>
       <td align="center">Doss Trento</td>
       <td align="center"><img src="./pictures/Heritage/Doss Trento.png"  height="160" width="160"> </td>
       <td align="center">761</td>
@@ -120,7 +120,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Multisensor<br>Lost object<br>Suboptimal baseline<br>Unconstrained dataset</td>
     </tr>
     <tr>
-      <td><strong>Aerial</td>
+      <td align="center"><strong>Aerial</td>
       <td align="center"></td>
       <td align="center"><img src="./pictures/Aerial/aerial.png"  height="160" width="160"> </td>
       <td align="center">59</td>
