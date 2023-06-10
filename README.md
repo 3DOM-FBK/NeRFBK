@@ -21,36 +21,36 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   <tbody>
     <tr>
       <td rowspan="4"><strong>Industrial</td>
-      <td>Industrial_A</td>
-      <td></td>
+      <td align="center">Industrial_A</td>
+      <td> align="center"</td>
       <td align="center">295</td>
-      <td>Huawei p30</td>
-      <td>5x5x4</td>
-      <td>Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">5x5x4</td>
+      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Industrial_A</td>
+      <td> align="center"</td>
+      <td align="center">295</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">5x5x4</td>
+      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Industrial_A</td>
+      <td> align="center"</td>
+      <td align="center">295</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">5x5x4</td>
+      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Industrial_A</td>
+      <td> align="center"</td>
+      <td align="center">295</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">5x5x4</td>
+      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
     </tr>
     <tr>
       <td rowspan="4"><strong>Transparent</td>
