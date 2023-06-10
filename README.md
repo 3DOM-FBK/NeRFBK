@@ -116,7 +116,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center"><img src="./pictures/Heritage/Baalshamin.png" height="130" width="130"> </td>
       <td align="center">47</td>
       <td align="center">Multisensor</td>
-      <td align="center">500*1500</td>
+      <td align="center">500x1500</td>
       <td align="center">Multisensor<br>Lost object<br>Suboptimal baseline<br>Unconstrained dataset</td>
     </tr>
     <tr>
