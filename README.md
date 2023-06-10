@@ -54,78 +54,79 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td rowspan="4"><strong>Transparent</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Glass_A</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">552</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">5x5*25</td>
+      <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Glass_B</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">383</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">6x6x10</td>
+      <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Cup</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">300</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">8x8x10</td>
+      <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Transbottle</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">300</td>
+      <td align="center">Huawei p30</td>
+      <td align="center">6x6x30</td>
+      <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
     </tr>
     <tr>
       <td rowspan="4"><strong>Heritage</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Doss Trento</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">761</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Outdoor large scale<br>Dense images<br>Ground truth</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Cyprus</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">176</td>
+      <td align="center">Samsung S6
++ NIKON</td>
+      <td align="center"></td>
+      <td align="center">Outdoor large scale<br>Sparse images<br>Ground truth</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Statue</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">100</td>
+      <td align="center">NIKON D750</td>
+      <td align="center"></td>
+      <td align="center">Outdoor large scale<br>Two cameras<br>Sparse images<br>Ground truth</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center">Baalshamin</td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">47</td>
+      <td align="center">Multisensor</td>
+      <td align="center">500*1500</td>
+      <td align="center">Multisensor<br>Lost object<br>Suboptimal baseline<br>Unconstrained dataset</td>
     </tr>
     <tr>
       <td><strong>Aerial</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align="center"></td>
+      <td align="center"><img src="./pictures/Synthetic.png"> </td>
+      <td align="center">59</td>
+      <td align="center">Multi-sensor</td>
+      <td align="center">City scale</td>
+      <td align="center">Outdoor large scale<br>Five sensors<br>Sparse images<br>Ground truth</td>
     </tr>
   </tbody>
   </table>
