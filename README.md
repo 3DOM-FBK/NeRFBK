@@ -30,7 +30,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Industrial_B</td>
-      <td align="center"><img src="./pictures/Industrial/Industrial_B.png"  height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Industrial/Industrial_B.png" height="130" width="130"> </td>
       <td align="center">271</td>
       <td align="center">Huawei p30</td>
       <td align="center">15x12x4</td>
@@ -38,7 +38,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Industrial_C</td>
-      <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="130" width="130"> </td>
       <td align="center">213</td>
       <td align="center">Huawei p30</td>
       <td align="center">7x7x14</td>
@@ -46,7 +46,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Synthetic</td>
-      <td align="center"><img src="./pictures/Industrial/Synthetic.png"  height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Industrial/Synthetic.png" height="130" width="130"> </td>
       <td align="center">373</td>
       <td align="center">Virtual pinhole camera</td>
       <td align="center">11x11x2</td>
@@ -55,7 +55,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     <tr>
       <td rowspan="4" align="center"><strong>Transparent</td>
       <td align="center">Glass_A</td>
-      <td align="center"><img src="./pictures/Transparent/Glass_A.png"  height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Transparent/Glass_A.png" height="130" width="130"> </td>
       <td align="center">552</td>
       <td align="center">Huawei p30</td>
       <td align="center">5x5x25</td>
@@ -63,7 +63,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Glass_B</td>
-      <td align="center"><img src="./pictures/Transparent/Glass_B.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Transparent/Glass_B.png" height="130" width="130"> </td>
       <td align="center">383</td>
       <td align="center">Huawei p30</td>
       <td align="center">6x6x10</td>
@@ -71,7 +71,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Cup</td>
-      <td align="center"><img src="./pictures/Transparent/Cup.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Transparent/Cup.png" height="130" width="130"> </td>
       <td align="center">300</td>
       <td align="center">Huawei p30</td>
       <td align="center">8x8x10</td>
@@ -79,7 +79,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Transbottle</td>
-      <td align="center"><img src="./pictures/Transparent/Transbottle.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Transparent/Transbottle.png" height="130" width="130"> </td>
       <td align="center">300</td>
       <td align="center">Huawei p30</td>
       <td align="center">6x6x30</td>
@@ -88,7 +88,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     <tr>
       <td rowspan="4" align="center"><strong>Heritage</td>
       <td align="center">Doss Trento</td>
-      <td align="center"><img src="./pictures/Heritage/Doss Trento.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Heritage/Doss Trento.png" height="130" width="130"> </td>
       <td align="center">761</td>
       <td align="center"></td>
       <td align="center"></td>
@@ -96,7 +96,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Cyprus</td>
-      <td align="center"><img src="./pictures/Heritage/Cyprus.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Heritage/Cyprus.png" height="130" width="130"> </td>
       <td align="center">176</td>
       <td align="center">Samsung S6
 + NIKON</td>
@@ -105,7 +105,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Statue</td>
-      <td align="center"><img src="./pictures/Heritage/Statue.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Heritage/Statue.png" height="130" width="130"> </td>
       <td align="center">100</td>
       <td align="center">NIKON D750</td>
       <td align="center"></td>
@@ -113,7 +113,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center">Baalshamin</td>
-      <td align="center"><img src="./pictures/Heritage/Baalshamin.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Heritage/Baalshamin.png" height="130" width="130"> </td>
       <td align="center">47</td>
       <td align="center">Multisensor</td>
       <td align="center">500*1500</td>
@@ -122,7 +122,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     <tr>
       <td align="center"><strong>Aerial</td>
       <td align="center"></td>
-      <td align="center"><img src="./pictures/Aerial/aerial.png" height="100" width="100"> </td>
+      <td align="center"><img src="./pictures/Aerial/aerial.png" height="130" width="130"> </td>
       <td align="center">59</td>
       <td align="center">Multi-sensor</td>
       <td align="center">City scale</td>
