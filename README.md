@@ -11,6 +11,27 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
 | Content Cell  | Industrial_A  |Industrial_A  |       295    | Huawei p30   |      5x5x4    |    Textureless <br> Small and complex <br> Reflective <br> Two acquisitions  <br> Ground truth  <br> Video |
 | Content Cell  | Content Cell  | Content Cell | Content Cell |
 
+<style>th{text-align:center}</style>
+<table>
+<thead>
+<tr>
+<th>A</th><th>B</th><th>C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>占位符</td><td colspan="2">合并了两列</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2">合并了两行两列</td><td>$F(x)=x^2$</td>
+</tr>
+<tr>
+<td><b>加粗</b></td>
+</tr>
+</tbody>
+<table>
+
+
 ---
 ## <a name="download"></a> Download
 
