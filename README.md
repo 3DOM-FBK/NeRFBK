@@ -135,10 +135,9 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
 ---
 ## <a name="download"></a> Download
 
-Datasets can be downloaded at [Sharepoint](https://fbk.sharepoint.com/:f:/r/sites/NerFBK/Shared%20Documents/NeRFBK?csf=1&web=1&e=pRePyL)  
-Check [Changelog](#changelog) for changes.
+Datasets will be downloadable soon. 
 
-NeRFBK belongs to [3D Optical Metrology unit(3DOM)](https://3dom.fbk.eu/), Fondazione Bruno Kessler: FBK.
+NeRFBK was created by the [3D Optical Metrology unit (3DOM)](https://3dom.fbk.eu/) of Fondazione Bruno Kessler (FBK).
 ## Citation
 
 Please consider citing our work:
