@@ -90,7 +90,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Doss Trento</td>
       <td align="center"><img src="./pictures/Heritage/Doss Trento.png" height="130" width="130"> </td>
       <td align="center">761</td>
-      <td align="center">high resolution:  1080x1920, low resolution:  540x690</td>
+      <td align="center">high resolution:<br>1080x1920,<br> low resolution:<br>540x690</td>
       <td align="center"></td>
       <td align="center">Outdoor large scale<br>Dense images<br>Ground truth</td>
     </tr>
