@@ -20,7 +20,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4",  align="center" ><strong>Industrial</td>
+
       <td align="center", width="10%">Industrial_A(industry)</td>
       <td align="center", width="40%"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
       <td align="center", width="10%">295</td>
