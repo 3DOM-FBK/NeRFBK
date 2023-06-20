@@ -155,3 +155,5 @@ Please consider citing our work:
 ---
 ## <a name="changelog"></a> Changelog 
 * [2023-06-10] Uploaded newest version.
+* ![nerfbk](https://github.com/3DOM-FBK/NeRFBK/assets/66437104/34a7ef80-8488-4028-8c8c-3e833c8ccedd)
+
