@@ -10,7 +10,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   <table   style=”margin: auto；” width=’60%’>
   <thead>
     <tr>
-      <th  width="10%"></th>
       <th colspan="2",  width="30%">Dataset</th>
       <th  width="10%">Images</th>
       <th  width="10%">Camera Type</th>
@@ -22,7 +21,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   <tbody>
     <tr>
       <td rowspan="4",  align="center" ><strong>Industrial</td>
-      <td align="center", width="10%">Industrial_A</td>
+      <td align="center", width="10%">Industrial_A(industry)</td>
       <td align="center", width="40%"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
       <td align="center", width="10%">295</td>
       <td align="center"，width="10%">Huawei p30 (resolution:<br>1080x1920)</td>
