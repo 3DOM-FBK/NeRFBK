@@ -11,7 +11,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   <thead>
     <tr>
       <th  width="10%"></th>
-      <th colspan="3",  width="30%">Dataset</th>
+      <th colspan="2",  width="30%">Dataset</th>
       <th  width="10%">Images</th>
       <th  width="10%">Camera Type</th>
       <th  width="10%">approx size(cm)</th>
