@@ -107,7 +107,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Statue</td>
       <td align="center"><img src="./pictures/Heritage/Statue.png" height="130" width="130"> </td>
       <td align="center">100</td>
-      <td align="center">NIKON D750(resolution:6016x4016)</td>
+      <td align="center">NIKON D750 (resolution:6016x4016)</td>
       <td align="center"></td>
       <td align="center">Outdoor large scale<br>Two cameras<br>Sparse images<br>Ground truth</td>
     </tr>
@@ -121,10 +121,10 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
     </tr>
     <tr>
       <td align="center"><strong>Aerial</td>
-      <td align="center"></td>
+      <td align="center">Dortmund</td>
       <td align="center"><img src="./pictures/Aerial/aerial.png" height="130" width="130"> </td>
       <td align="center">59</td>
-      <td align="center">Multi-sensor (resolution:1080x1920)</td>
+      <td align="center">Multi-sensor (resolution:8176x6132 and 6132x8176)</td>
       <td align="center">City scale</td>
       <td align="center">Outdoor large scale<br>Five sensors<br>Sparse images<br>Ground truth</td>
     </tr>
