@@ -22,13 +22,13 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   <tbody>
     <tr>
       <td rowspan="4",  align="center" ><strong>Industrial</td>
-      <td align="center">Industrial_A</td>
-      <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
-      <td align="center">295</td>
-      <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
-      <td align="center">5x5x4</td>
-      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
-      <td align="center">scanner</td> 
+      <td align="center", width="10%">Industrial_A</td>
+      <td align="center", width="40%"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
+      <td align="center", width="10%">295</td>
+      <td align="center"，width="10%">Huawei p30 (resolution:<br>1080x1920)</td>
+      <td align="center"，width="10%">5x5x4</td>
+      <td align="center"，width="10%">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
+      <td align="center"，width="10%">scanner</td> 
     </tr>
     <tr>
       <td align="center">Industrial_B</td>
