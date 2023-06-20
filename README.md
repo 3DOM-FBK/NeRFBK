@@ -10,24 +10,23 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
   <table   style=”margin: auto；” width=’60%’>
   <thead>
     <tr>
-      <th colspan="2",  width="30%">Dataset</th>
+      <th  width="10%"></th>
+      <th colspan="2",  width="40%">Dataset</th>
       <th  width="10%">Images</th>
       <th  width="10%">Camera Type</th>
       <th  width="10%">approx size(cm)</th>
       <th  width="20%">Description</th>
-      <th  width="10%">Ground True</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-
-      <td align="center", width="10%">Industrial_A(industry)</td>
-      <td align="center", width="40%"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
-      <td align="center", width="10%">295</td>
-      <td align="center"，width="10%">Huawei p30 (resolution:<br>1080x1920)</td>
-      <td align="center"，width="10%">5x5x4</td>
-      <td align="center"，width="10%">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
-      <td align="center"，width="10%">Hexagon active scanner</td> 
+      <td rowspan="4",  align="center" ><strong>Industrial</td>
+      <td align="center">Industrial_A</td>
+      <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
+      <td align="center">295</td>
+      <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
+      <td align="center">5x5x4</td>
+      <td align="center">Textureless<br>Small and complex<br>Reflective<br>Two acquisitions<br>Ground truth<br>Video</td>
     </tr>
     <tr>
       <td align="center">Industrial_B</td>
@@ -36,7 +35,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
       <td align="center">15x12x4</td>
       <td align="center">Textureless<br>complex<br>Reflective<br>Ground truth<br>Video</td>
-      <td align="center">Hexagon active scanner</td> 
     </tr>
     <tr>
       <td align="center">Industrial_C</td>
@@ -45,7 +43,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
       <td align="center">7x7x14</td>
       <td align="center">Textureless<br>complex<br>Reflective<br>Ground truth<br>Video</td>
-      <td align="center">Hexagon active scanner</td> 
     </tr>
     <tr>
       <td align="center">Synthetic</td>
@@ -54,7 +51,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Virtual pinhole camera (resolution:<br>1920x1080)</td>
       <td align="center">11x11x2</td>
       <td align="center">Well-textured<br>complex<br>Ground truth<br>Video</td>
-      <td align="center">Blender</td> 
     </tr>
     <tr>
       <td rowspan="4" align="center"><strong>Transparent</td>
@@ -64,7 +60,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
       <td align="center">5x5x25</td>
       <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
-      <td align="center">Photogrammetric</td> 
     </tr>
     <tr>
       <td align="center">Glass_B</td>
@@ -73,7 +68,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
       <td align="center">6x6x10</td>
       <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
-      <td align="center">Photogrammetric</td> 
     </tr>
     <tr>
       <td align="center">Cup</td>
@@ -82,7 +76,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
       <td align="center">8x8x10</td>
       <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
-      <td align="center">Photogrammetric</td> 
     </tr>
     <tr>
       <td align="center">Transbottle</td>
@@ -91,7 +84,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Huawei p30 (resolution:<br>1080x1920)</td>
       <td align="center">6x6x30</td>
       <td align="center">Complex shape<br>Highly refractive<br>Ground truth<br>Video</td>
-      <td align="center">Photogrammetric</td> 
     </tr>
     <tr>
       <td rowspan="4" align="center"><strong>Heritage</td>
@@ -101,7 +93,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">high resolution:<br>1080x1920,<br> low resolution:<br>540x690</td>
       <td align="center"></td>
       <td align="center">Outdoor large scale<br>Dense images<br>Ground truth</td>
-      <td align="center">Laser Scanner</td>
     </tr>
     <tr>
       <td align="center">Cyprus</td>
@@ -111,7 +102,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
 + NIKON (resolution:<br>3840x2160)</td>
       <td align="center"></td>
       <td align="center">Outdoor large scale<br>Sparse images<br>Ground truth</td>
-      <td align="center">Photogrammetric</td>
     </tr>
     <tr>
       <td align="center">Statue</td>
@@ -120,7 +110,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">NIKON D750 (resolution:<br>6016x4016)</td>
       <td align="center"></td>
       <td align="center">Outdoor large scale<br>Two cameras<br>Sparse images<br>Ground truth</td>
-      <td align="center">Blender</td>
     </tr>
     <tr>
       <td align="center">Baalshamin</td>
@@ -129,7 +118,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Multisensor (resolution:<br>600x399 <br>to <br>4288x2848)</td>
       <td align="center">500x1500</td>
       <td align="center">Multisensor<br>Lost object<br>Suboptimal baseline<br>Unconstrained dataset</td>
-      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"><strong>Aerial</td>
@@ -139,7 +127,6 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Multi-sensor (resolution:<br>8176x6132 <br>and <br>6132x8176)</td>
       <td align="center">City scale</td>
       <td align="center">Outdoor large scale<br>Five sensors<br>Sparse images<br>Ground truth</td>
-      <td align="center"></td>
     </tr>
   </tbody>
   </table>
@@ -161,4 +148,3 @@ Please consider citing our work:
 ---
 ## <a name="changelog"></a> Changelog 
 * [2023-06-10] Uploaded newest version.
-
