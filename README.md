@@ -107,7 +107,7 @@ Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Research
       <td align="center">Statue</td>
       <td align="center"><img src="./pictures/Heritage/Statue.png" height="130" width="130"> </td>
       <td align="center">100</td>
-      <td align="center">NIKON D750 (resolution:6016x4016)</td>
+      <td align="center">NIKON D750 (resolution:<br>6016x4016)</td>
       <td align="center"></td>
       <td align="center">Outdoor large scale<br>Two cameras<br>Sparse images<br>Ground truth</td>
     </tr>
