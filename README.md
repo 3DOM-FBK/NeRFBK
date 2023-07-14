@@ -1,5 +1,9 @@
-# NERFBK: A HIGH-QUALITY BENCHMARK FOR NERF-BASED 3D RECONSTRUCTION
-Our high-quality dataset evaluates NeRF-based methods for 3D metrology. Researchers can compare methods on textured, textureless, metallic, transparent, and aerial objects to optimize and validate techniques for real-world use, such as in industrial inspections and cultural heritage preservation.
+# NERFBK: A HOLISTIC DATASET FOR BENCHMARKING NERF-BASED 3D RECONSTRUCTION
+This is a set of image collections - called NeRFBK - with real and synthetic data specifically assembled to support researchers in evaluating and comparing the performances of NeRF algorithms against a reliable and accurate Ground Truth. 
+The data contains industrial objects (reflective and textureless metallic surfaces), transparent objects (mainly glasses), heritage scenarios (including lost scenes), as well as large-scale urban areas acquired with drone or airborne cameras. 
+Researchers can compare NeRF methods on textured, textureless, metallic, transparent and aerial scenes to optimize and validate techniques for real-world use, such as in industrial inspections, cultural heritage preservation or large-scale 3D modeling.
+For each dataset, camera poses are provided through a COLMAP project while Groud Truth data vary from LiDAR or Terrestrial Laser scanning to high-resolution photogrammetry. Using these Groud Truth, quantitative evaluations can be performed to provide an unbiased comparison of geometric accuracy. Different approaches and metrics can include best plane fitting, cloud-to-cloud comparison, profiling, accuracy and completeness analyses, RMSE, etc. 
+
 
 
 [**[Paper]**]() [**[Download]**](#Download) 
