@@ -15,7 +15,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
   <thead>
     <tr>
       <th  width="10%"></th>
-      <th  colspan="1",  width="40%">Dataset</th>
+      <th  width="40%">Dataset</th>
       <th  width="10%">Numb. images</th>
       <th  width="10%">Camera type &<br>image size</th>
       <th  width="10%">Approx. size(cm)</th>
