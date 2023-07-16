@@ -15,7 +15,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
   <thead>
     <tr>
       <th  width="5%"></th>
-      <th  colspan="2",  width="60%">Dataset</th>
+      <th  colspan="1",  width="60%">Dataset</th>
       <th  width="5%">Numb. images</th>
       <th  width="5%">Camera type &<br>image size</th>
       <th  width="5%">Approx. size(cm)</th>
@@ -26,7 +26,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
   <tbody>
     <tr>
       <td rowspan="8",  align="center" ><strong>Industrial</td>
-      <td colspan="2",  align="center">Industrial_A</td>
+      <td colspan="1",  align="center">Industrial_A</td>
       <td rowspan="2",  align="center">295</td>
       <td rowspan="2",  align="center">Huawei p20 pro<br>1080x1920 px</td>
       <td rowspan="2",  align="center">5x5x4</td>
@@ -35,10 +35,9 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
-      <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="130" width="130"></td>
     </tr>  
     <tr>
-      <td colspan="2",  align="center">Industrial_B</td>
+      <td colspan="1",  align="center">Industrial_B</td>
       <td rowspan="2",  align="center">220</td>
       <td rowspan="2",  align="center">Huawei p20 pro<br>1080x1920 px</td>
       <td rowspan="2",  align="center">15x12x4</td>
@@ -47,10 +46,9 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_B.png" height="130" width="130"> </td>
-      <td align="center"><img src="./pictures/Industrial/Industrial_B.png" height="130" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="2",  align="center">Industrial_C</td>
+      <td colspan="1",  align="center">Industrial_C</td>
       <td rowspan="2",  align="center">213</td>
       <td rowspan="2",  align="center">Huawei p20pro<br>1080x1920 px</td>
       <td rowspan="2",  align="center">7x7x14</td>
@@ -59,10 +57,9 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="130" width="130"> </td>
-      <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="130" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="2",  align="center">Synthetic</td>
+      <td colspan="1",  align="center">Synthetic</td>
       <td rowspan="2",  align="center">373</td>
       <td rowspan="2",  align="center">Virtual pinhole camera<br>1920x1080 px</td>
       <td rowspan="2",  align="center">11x11x2</td>
@@ -70,7 +67,6 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td rowspan="2",  align="center">Synthetic data</td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Industrial/Synthetic.png" height="130" width="130"> </td>
       <td align="center"><img src="./pictures/Industrial/Synthetic.png" height="130" width="130"> </td>
     </tr>
     <tr>
