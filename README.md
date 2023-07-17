@@ -11,7 +11,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
 
 ## <a name="Datasets"></a> Datasets
 <div style=”text-align: center;”>
-  <table   style=”margin: auto；” width=’40%’>
+  <table   style=”margin: auto;” width=’20%’>
   <thead>
     <tr>
       <th  width="10%"></th>
@@ -23,7 +23,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <th  width="10%">Ground Truth<br>(GT)</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody> 
     <tr>
       <td rowspan="15",  align="center" ><strong>Industrial</td>
       <td colspan="1",  align="center">Industrial_A</td>
