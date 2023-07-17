@@ -305,7 +305,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td align="center"><img src="./pictures/Heritage/Baalshamin.png" height="98" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Baalshamin.png" height="98" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Baalshamin_network.png" height="39" width="130"> </td>
     </tr>
     <tr>
       <td rowspan="6",  align="center"><strong>Aerial</td>
