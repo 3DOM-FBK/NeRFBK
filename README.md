@@ -31,7 +31,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">5x5x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Small and Complex, <br>Reflective, <br>Two acquisitions, <br>Video</td>
-      <td rowspan="3",  align="center">Hexagon active scanner</td>
+      <td rowspan="3",  align="center">Triangulation scanner</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="111" width="130"></td>
@@ -45,7 +45,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">15x12x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Complex, <br>Reflective, <br>Video</td>
-      <td rowspan="3",  align="center">Hexagon active scanner</td>
+      <td rowspan="3",  align="center">Triangulation scanner</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_B.png" height="99" width="130"> </td>
@@ -59,7 +59,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">7x7x14</td>
       <td rowspan="3",  align="center">Textureless, <br>Complex, <br>Reflective, <br>Video</td>
-      <td rowspan="3",  align="center">Hexagon active scanner</td>
+      <td rowspan="3",  align="center">Triangulation scanner</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="128" width="130"> </td>
