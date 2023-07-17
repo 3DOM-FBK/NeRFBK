@@ -239,7 +239,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
     </tr>
     <tr>
       <td colspan="1",  align="center">Tunnel</td>
-      <td rowspan="3",  align="center">353</td>
+      <td rowspan="3",  align="center">4353</td>
       <td rowspan="3",  align="center">RealSense D455, <br>640x480 px</td>
       <td rowspan="3",  align="center">8000x300x200</td>
       <td rowspan="3",  align="center">Underground, <br>Mobile robot based, <br> High framerate</td>
