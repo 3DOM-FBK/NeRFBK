@@ -322,7 +322,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td align="center"><img src="./pictures/Aerial/Drone.png" height="86" width="130"> </td>
      </tr>
     <tr>
-      <td colspan="1",  align="center">Aerial</td>
+      <td colspan="1",  align="center">Dortmund</td>
       <td rowspan="3",  align="center">59</td>
       <td rowspan="3",  align="center">Multi-sensor, <br>6132x8176 px (N)<br>8176x6132 px (O)</td>
       <td rowspan="3",  align="center">City scale</td>
