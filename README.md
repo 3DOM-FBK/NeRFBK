@@ -176,7 +176,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Doss Trento.png" height="99" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Doss.png" height="112" width="130"> </td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/doss_network.png" height="86" width="130"> </td>
