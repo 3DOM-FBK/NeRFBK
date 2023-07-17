@@ -179,7 +179,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td align="center"><img src="./pictures/Heritage/Doss Trento.png" height="99" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Doss Trento.png" height="99" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/doss_network.png" height="86" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Cyprus</td>
@@ -221,7 +221,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td align="center"><img src="./pictures/Heritage/Vase.png" height="130" width="95"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Vase.png" height="130" width="95"> </td>
+      <td align="center"><img src="./pictures/Heritage/Vase_network.png" height="95" width="95"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Metopa</td>
@@ -235,7 +235,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td align="center"><img src="./pictures/Heritage/Metopa.png" height="70" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Metopa.png" height="70" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Metopa_network.png" height="82" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Tunnel</td>
@@ -263,7 +263,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td align="center"><img src="./pictures/Heritage/Neptune.png" height="87" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Neptune.png" height="87" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Neptune_network.png" height="80" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Duomo</td>
@@ -332,7 +332,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td align="center"><img src="./pictures/Aerial/aerial.png" height="97" width="130"> </td>
     </tr>
      <tr>
-      <td align="center"><img src="./pictures/Aerial/aerial.png" height="97" width="130"> </td>
+      <td align="center"><img src="./pictures/Aerial/Aerial_network.png" height="116" width="130"> </td>
      </tr>
     </tr>
   </tbody>
