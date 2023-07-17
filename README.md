@@ -18,7 +18,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <th  width="40%">Dataset</th>
       <th  width="10%">Numb. images</th>
       <th  width="20%">Camera type &<br>image size</th>
-      <th  width="10%">Approx. size(cm)</th>
+      <th  width="10%">Approx. <br>size(cm)</th>
       <th  width="20%">Description</th>
       <th  width="10%">Ground Truth<br>(GT)</th>
     </tr>
@@ -171,7 +171,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td colspan="1",  align="center">Doss Trento</td>
       <td rowspan="3",  align="center">761</td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px<br> and <br>540x690 px</td>
-      <td rowspan="3",  align="center">2500x2500x1500</td>
+      <td rowspan="3",  align="center">2500x2500 <br>x1500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
       <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
     </tr>
@@ -185,7 +185,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td colspan="1",  align="center">Cyprus</td>
       <td rowspan="3",  align="center">176</td>
       <td rowspan="3",  align="center">Samsung S6, <br>3840x2160 px</td>
-      <td rowspan="3",  align="center">1000x1000x500</td>
+      <td rowspan="3",  align="center">1000x1000 <br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
       <td rowspan="3",  align="center">Photogrammetry with Reflex camera</td>
     </tr>
@@ -199,7 +199,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td colspan="1",  align="center">Statue</td>
       <td rowspan="3",  align="center">100</td>
       <td rowspan="3",  align="center">Ideal reflex camera, <br>6016x4016 px</td>
-      <td rowspan="3",  align="center">200x100x500</td>
+      <td rowspan="3",  align="center">200x100 <br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Two cameras</td>
       <td rowspan="3",  align="center">Synthetic data</td>
     </tr>
@@ -241,7 +241,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td colspan="1",  align="center">Tunnel</td>
       <td rowspan="3",  align="center">4353</td>
       <td rowspan="3",  align="center">RealSense D455, <br>640x480 px</td>
-      <td rowspan="3",  align="center">8000x300x200</td>
+      <td rowspan="3",  align="center">8000x300 <br>x200</td>
       <td rowspan="3",  align="center">Underground, <br>Mobile robot based, <br> High framerate</td>
       <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
     </tr>
@@ -255,7 +255,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
       <td colspan="1",  align="center">Neptune</td>
       <td rowspan="3",  align="center">680 <br>+ <br>214</td>
       <td rowspan="3",  align="center">Nikon D3X, <br>6048x4032 px, <br>Canon EOS 550D, <br> 5184x3456 px</td>
-      <td rowspan="3",  align="center">2500x1500x7000</td>
+      <td rowspan="3",  align="center">2500x1500 <br>x7000</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Terrestrial <br>+ <br>UAV images</td>
       <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
     </tr>
