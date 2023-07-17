@@ -4,10 +4,11 @@ The data contains industrial objects (reflective and textureless metallic surfac
 Researchers can compare NeRF methods on textured, textureless, metallic, transparent and aerial scenes to optimize and validate techniques for real-world use, such as in industrial inspections, cultural heritage preservation or large-scale 3D modeling.
 For each dataset, GT data vary from LiDAR or Terrestrial Laser scanning to high-resolution photogrammetry. Using these GT, quantitative evaluations can be performed to provide an unbiased comparison of geometric accuracy. Different approaches and metrics can include best plane fitting, cloud-to-cloud comparison, profiling, accuracy and completeness analyses, RMSE, etc. 
 For each scenario, images and GT data can be downloaded from the given links.
+
 If you use these data and you publish any result, please acknolwedge this repository and its related publications. Thanks!
 
 
-[**[ Related Paper]**]
+[**[ Related Papers]**]
 - Gabriele Mazzacca, Ali Karami, Simone Rigon, Elisa Mariarosaria Farella, Pawel Trybala and Fabio Remondino, 2023: NeRF FOR HERITAGE 3D RECONSTRUCTION. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-2-2023, pp. 1051–1058
 - Fabio Remondino, Ali Karami, Ziyang Yan, Gabriele Mazzacca, Simone Rigon and Rongjun Qin, 2023: A CRITICAL ANALYSIS OF NERF-BASED 3D RECONSTRUCTION. Remote Sensing, xxxx 
 - Ziyang Yan, Gabriele Mazzacca, Simone Rigon, Elisa Mariarosaria Farella, Pawel Trybala, Fabio Remondino, 2023: NERFBK: A HOLISTIC DATASET FOR BENCHMARKING NERF-BASED 3D RECONSTRUCTION. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., forthcoming / in press
@@ -344,11 +345,10 @@ If you use these data and you publish any result, please acknolwedge this reposi
 </div>
 
 ---
-## <a name="download"></a> Download
 
-Datasets will be downloadable soon. 
 
 NeRFBK was created by the [3D Optical Metrology unit (3DOM)](https://3dom.fbk.eu/) of Fondazione Bruno Kessler (FBK).
+
 ## Citation
 
 Please consider citing our work:
@@ -358,4 +358,4 @@ Please consider citing our work:
 
 ---
 ## <a name="changelog"></a> Changelog 
-* [2023-06-10] Uploaded newest version.
+* [15 Jul, 2023] Uploaded newest version.
