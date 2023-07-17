@@ -310,7 +310,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
     <tr>
       <td rowspan="6",  align="center"><strong>Aerial</td>
       <td colspan="1",  align="center">Drone</td>
-      <td rowspan="3",  align="center">328</td>
+      <td rowspan="3",  align="center">224</td>
       <td rowspan="3",  align="center">Sony, <br>7952x5304 px</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
