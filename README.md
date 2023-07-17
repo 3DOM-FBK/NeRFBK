@@ -11,7 +11,7 @@ For each dataset, camera poses are provided through a COLMAP project while Groud
 
 ## <a name="Datasets"></a> Datasets
 <div style=”text-align: center;”>
-  <table   style=”margin: auto;” width=’10%’>
+  <table   style=”margin: auto;” width=’40%’>
   <thead>
     <tr>
       <th  width="10%"></th>
