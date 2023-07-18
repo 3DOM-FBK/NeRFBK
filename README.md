@@ -328,8 +328,8 @@ If you use these data and you publish any result, please acknolwedge this reposi
      </tr>
     <tr>
       <td colspan="1",  align="center">Dortmund</td>
-      <td rowspan="3",  align="center">59</td>
-      <td rowspan="3",  align="center">IGI Multi-sensor, 5 views <br>6132x8176 px at Nadir, 50 mm<br>8176x6132 px at Oblique, 80 mm: <a href="">cam0 (ca 2GB)</a>, <a href="">cam1 (ca 1.8 GB)</a>, <a href="">cam2 (ca 1 GB)</a>, <a href="">cam3 (ca 1 GB)</a>, <a href="">cam4 (ca 1 GB)</a>)</td>
+      <td rowspan="3",  align="center">59<br><a href="">cam0</a> (ca 2GB),<br><a href="">cam1</a> (ca 1.8 GB),<br><a href="">cam2</a> (ca 1 GB),<br><a href="">cam3</a> (ca 1 GB),<br><a href="">cam4</a> (ca 1 GB))</td>
+      <td rowspan="3",  align="center">IGI Multi-sensor, 5 views <br>6132x8176 px at Nadir, 50 mm<br>8176x6132 px at Oblique, 80 mm</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
       <td rowspan="3",  align="center"><a href="">Airborne Laser Scanner (ca 220 MB)</a></td>
