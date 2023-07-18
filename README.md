@@ -198,7 +198,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Cyprus.png" height="87" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Cyprus.png" height="87" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Cyprus_network.png" height="34" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Statue</td>
@@ -282,7 +282,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Duomo.png" height="74" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Duomo.png" height="74" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Duomo_network.png" height="86" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Modena</td>
@@ -324,10 +324,10 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Aerial/Drone.png" height="86" width="130"> </td>
     </tr>
      <tr>
-      <td align="center"><img src="./pictures/Aerial/Drone.png" height="86" width="130"> </td>
+      <td align="center"><img src="./pictures/Aerial/Drone_network.png" height="84" width="130"> </td>
      </tr>
     <tr>
-      <td colspan="1",  align="center">Dortmund</td>
+      <td colspan="1",  align="center">Aerial</td>
       <td rowspan="3",  align="center">59</td>
       <td rowspan="3",  align="center">Multi-sensor, <br>6132x8176 px (N)<br>8176x6132 px (O)</td>
       <td rowspan="3",  align="center">City scale</td>
