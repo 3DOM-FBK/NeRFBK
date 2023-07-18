@@ -202,8 +202,8 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Statue</td>
-      <td rowspan="3",  align="center">100</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EUtXOsDBN_BCvy5bXx_gs2gBoliC7UpD_LQxQLphQDZrgQ?e=2DXpXu"target=page>Ideal reflex camera</a>, <br>6016x4016 px</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EUtXOsDBN_BCvy5bXx_gs2gBoliC7UpD_LQxQLphQDZrgQ?e=2DXpXu" target=page>100</a></td>
+      <td rowspan="3",  align="center">Ideal reflex camera, <br>6016x4016 px</td>
       <td rowspan="3",  align="center">200x100 <br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Two cameras</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EVy9uWyQkfNEiRRTF1EvhkgBT_pJJ99hPuiXEVuiSOUNUQ?e=aZD7F4"target=page>Synthetic data</a></td>
@@ -314,12 +314,12 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td rowspan="6",  align="center"><strong>Aerial</td>
-      <td colspan="1",  align="center">Drone</td>
-      <td rowspan="3",  align="center">224</td>
+      <td colspan="1",  align="center">Drone / UAV</td>
+      <td rowspan="3",  align="center"><a href="" target=page>224</a> (ca 6 GB)</td>
       <td rowspan="3",  align="center">Sony, <br>7952x5304 px</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
-      <td rowspan="3",  align="center">Airborne Laser Scanner</td>
+      <td rowspan="3",  align="center"><a href="">Airborne Laser Scanner (ca 3 GB)</a></td>
     <tr>
       <td align="center"><img src="./pictures/Aerial/Drone.png" height="86" width="130"> </td>
     </tr>
@@ -327,12 +327,12 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Aerial/Drone_network.png" height="84" width="130"> </td>
      </tr>
     <tr>
-      <td colspan="1",  align="center">Aerial</td>
+      <td colspan="1",  align="center">Dortmund</td>
       <td rowspan="3",  align="center">59</td>
-      <td rowspan="3",  align="center">Multi-sensor, <br>6132x8176 px (N)<br>8176x6132 px (O)</td>
+      <td rowspan="3",  align="center">IGI Multi-sensor, 5 views <br>6132x8176 px at Nadir, 50 mm<br>8176x6132 px at Oblique, 80 mm: <a href="">cam0 (ca 2GB)</a>, <a href="">cam1 (ca 1.8 GB)</a>, <a href="">cam2 (ca 1 GB)</a>, <a href="">cam3 (ca 1 GB)</a>, <a href="">cam4 (ca 1 GB)</a>)</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
-      <td rowspan="3",  align="center">Airborne Laser Scanner</td>
+      <td rowspan="3",  align="center"><a href="">Airborne Laser Scanner (ca 220 MB)</a></td>
     <tr>
       <td align="center"><img src="./pictures/Aerial/aerial.png" height="97" width="130"> </td>
     </tr>
