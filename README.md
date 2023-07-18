@@ -203,7 +203,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td colspan="1",  align="center">Statue</td>
       <td rowspan="3",  align="center">100</td>
-      <td rowspan="3",  align="center">Ideal reflex camera, <br>6016x4016 px</td>
+      <td rowspan="3",  align="center">Reflex camera, <br>6016x4016 px</td>
       <td rowspan="3",  align="center">200x100 <br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Two cameras</td>
       <td rowspan="3",  align="center">Synthetic data</td>
