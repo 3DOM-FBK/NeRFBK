@@ -254,7 +254,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Tunnel.png" height="127" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Tunnel_network.png" height="127" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Tunnel_network.png" height="75" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Neptune</td>
