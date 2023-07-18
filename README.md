@@ -203,10 +203,10 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td colspan="1",  align="center">Statue</td>
       <td rowspan="3",  align="center">100</td>
-      <td rowspan="3",  align="center">Reflex camera, <br>6016x4016 px</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EUtXOsDBN_BCvy5bXx_gs2gBoliC7UpD_LQxQLphQDZrgQ?e=2DXpXu"target=page>Ideal reflex camera</a>, <br>6016x4016 px</td>
       <td rowspan="3",  align="center">200x100 <br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Two cameras</td>
-      <td rowspan="3",  align="center">Synthetic data</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EVy9uWyQkfNEiRRTF1EvhkgBT_pJJ99hPuiXEVuiSOUNUQ?e=aZD7F4"target=page>Synthetic data</a></td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Statue.png" height="104" width="130"> </td>
