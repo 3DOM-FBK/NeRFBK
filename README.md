@@ -10,7 +10,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
 
 [**[ Related Papers]**]
 - Gabriele Mazzacca, Ali Karami, Simone Rigon, Elisa Mariarosaria Farella, Pawel Trybala and Fabio Remondino, 2023: NeRF FOR HERITAGE 3D RECONSTRUCTION. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-2-2023, pp. 1051–1058
-- Fabio Remondino, Ali Karami, Ziyang Yan, Gabriele Mazzacca, Simone Rigon and Rongjun Qin, 2023: A CRITICAL ANALYSIS OF NERF-BASED 3D RECONSTRUCTION. Remote Sensing, xxxx 
+- Fabio Remondino, Ali Karami, Ziyang Yan, Gabriele Mazzacca, Simone Rigon and Rongjun Qin, 2023: A CRITICAL ANALYSIS OF NERF-BASED 3D RECONSTRUCTION. Remote Sensing, in press 
 - Ziyang Yan, Gabriele Mazzacca, Simone Rigon, Elisa Mariarosaria Farella, Pawel Trybala, Fabio Remondino, 2023: NERFBK: A HOLISTIC DATASET FOR BENCHMARKING NERF-BASED 3D RECONSTRUCTION. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., forthcoming / in press
 
 
@@ -349,14 +349,14 @@ If you use these data and you publish any result, please acknolwedge this reposi
 
 NeRFBK was created by the [3D Optical Metrology unit (3DOM)](https://3dom.fbk.eu/) of Fondazione Bruno Kessler (FBK).
 
-The Statue set of images belongs to the ENRICH dataset, available here: https://github.com/davidemarelli/ENRICH
+The Statue set of images is part of the ENRICH dataset, available here: https://github.com/davidemarelli/ENRICH
 ENRICH: multi-purposE dataset for beNchmaRking In Computer vision and pHotogrammetry
 Davide Marelli, Luca Morelli, Elisa Mariarosaria Farella, Simone Bianco, Gianluigi Ciocca, Fabio Remondino, 2-23.
 ISPRS Journal of Photogrammetry and Remote Sensing, Volume 198, Pages 84-98.
 
-The UAV set of images belongs to the USEGEO project, available here: https://usegeo.fbk.eu
+The UAV set of images is part of the USEGEO project, available here: https://usegeo.fbk.eu
 
-The Dortmund set of images belongs to the ISPRS/EuroSDR Benchmark for Multi-Platform Photogrammetry, available here: https://www2.isprs.org/commissions/comm2/icwg-2-1a/benchmark_main/
+The Dortmund set of images is part of the ISPRS/EuroSDR Benchmark for Multi-Platform Photogrammetry, available here: https://www2.isprs.org/commissions/comm2/icwg-2-1a/benchmark_main/
 ISPRS Benchmark for Multi-Platform Photogrammetry.
 Nex, F., Gerke, M., Remondino, F., Przybilla H.-J., Bäumker, M., Zurhorst, A., 2015. 
 ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. II-3/W4, pp.135-142.
