@@ -212,7 +212,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Statue.png" height="104" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Statue.png" height="104" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Statue_network.png" height="100" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Vase</td>
