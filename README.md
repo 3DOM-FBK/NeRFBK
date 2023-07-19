@@ -146,11 +146,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td rowspan="30",  align="center"><strong>Heritage</td>
       <td colspan="1",  align="center">Doss Trento</td>
-      <td rowspan="3",  align="center">761</td>
-      <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUz26UVqOBNPpAomuVvEYeUB3qM_IwOw545Ve9m5qBr49A?e=bFJSpl" target=page>761</a><br>(ca 150 MB)</td>
+      <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">2500x2500 <br>x1500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
-      <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
+      <td rowspan="3",  align="center"><a href="">Terrestrial Laser Scanner</a><br>(ca xx MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Doss.png" height="112" width="130"> </td>
