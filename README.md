@@ -102,20 +102,6 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Glass_A_network.png" height="130" width="128"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Glass_B</td>
-      <td rowspan="3",  align="center">377</td>
-      <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
-      <td rowspan="3",  align="center">6x6x10</td>
-      <td rowspan="3",  align="center">Complex shape, <br>Highly refractive, <br>Video</td>
-      <td rowspan="3",  align="center">Photogrammetry</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./pictures/Transparent/Glass_B.png" height="111" width="130"> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./pictures/Transparent/Glass_B_network.png" height="111" width="130"> </td>
-    </tr>
-    <tr>
       <td colspan="1",  align="center">Cup</td>
       <td rowspan="3",  align="center">338</td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
