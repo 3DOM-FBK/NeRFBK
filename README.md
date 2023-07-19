@@ -59,6 +59,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Industrial/Industrial_B_network.png" height="99" width="130"> </td>
     </tr>
     <tr>
+    <tr>
       <td colspan="1",  align="center">Synthetic</td>
       <td rowspan="3",  align="center">373</td>
       <td rowspan="3",  align="center">Virtual pinhole camera, <br>1920x1080 px</td>
