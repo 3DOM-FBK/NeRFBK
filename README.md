@@ -19,9 +19,9 @@ If you use these data and you publish any result, please acknolwedge this reposi
   <table   style=”margin: auto;” width=’80%’>
   <thead>
     <tr>
-      <th  width="10%"></th>
+      <th  width="8%"></th>
       <th  width="25%">Dataset</th>
-      <th  width="20%">Numb. images</th>
+      <th  width="22%">Numb. images</th>
       <th  width="20%">Camera type &<br>image size</th>
       <th  width="10%">Approx.<br>size(cm)</th>
       <th  width="25%">Description</th>
@@ -30,7 +30,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
   </thead>
   <tbody> 
     <tr>
-      <td rowspan="12", align="top" ><strong>I<br>N<br>D<br>U<br>S<br>T<br>R<br>I<br>A<br>L</td>
+      <td rowspan="12", Valign="top" ><strong>I<br>N<br>D<br>U<br>S<br>T<br>R<br>I<br>A<br>L</td>
       <td colspan="1",  align="center">Industrial_A</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERVOA91ETFJNtw141SOr5zEBkfwsOpRMJxemXypER5TOaw?e=xMY1rU" target=page>295</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
