@@ -187,7 +187,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/doss_network.png" height="86" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Cyprus</td>
+      <td colspan="1",  align="center">Cyprus monument</td>
       <td rowspan="3",  align="center">176</td>
       <td rowspan="3",  align="center">Samsung S6, <br>3840x2160 px</td>
       <td rowspan="3",  align="center">1000x1000 <br>x500</td>
@@ -230,11 +230,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Metopa</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/ETDLzigIfktFj7MmRgPaL9MB3n7FUKzJgcRM2oNYvgikFQ?e=2g1nUw" target=page>106</a> (ca 500 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/ETDLzigIfktFj7MmRgPaL9MB3n7FUKzJgcRM2oNYvgikFQ?e=2g1nUw" target=page>106</a><br>(ca 500 MB)</td>
       <td rowspan="3",  align="center">Nikon COOLPIX P90, <br>4000x3000 px</td>
       <td rowspan="3",  align="center">100x80x10</td>
       <td rowspan="3",  align="center">Indoor museal detailed relief</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EcJIDNW8oINGsJkI6XRfr8wB2tkp-05Q1El3aTd4UGrBrw?e=e3rVUC" target=page>Terrestrial Laser Scanner</a> (ca 800 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EcJIDNW8oINGsJkI6XRfr8wB2tkp-05Q1El3aTd4UGrBrw?e=e3rVUC" target=page>Terrestrial Laser Scanner</a><br>(ca 800 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Metopa.png" height="70" width="130"> </td>
@@ -257,7 +257,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Tunnel_network.png" height="75" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Neptune</td>
+      <td colspan="1",  align="center">Neptune temple</td>
       <td rowspan="3",  align="center">680 <br>+ <br>214</td>
       <td rowspan="3",  align="center">Nikon D3X, <br>6048x4032 px, <br>Canon EOS 550D, <br> 5184x3456 px</td>
       <td rowspan="3",  align="center">2500x1500 <br>x7000</td>
@@ -271,7 +271,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Neptune_network.png" height="80" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Duomo</td>
+      <td colspan="1",  align="center">Trento Duomo</td>
       <td rowspan="3",  align="center">565</td>
       <td rowspan="3",  align="center">Samsung S6, <br>5312x2988 px</td>
       <td rowspan="3",  align="center">8000x8000</td>
@@ -285,9 +285,9 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Duomo_network.png" height="86" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Modena</td>
-      <td rowspan="3",  align="center">134 <br>+ <br>87</td>
-      <td rowspan="3",  align="center">Nikon D3X, <br>6048x4032 px</td>
+      <td colspan="1",  align="center">Modena cathedral</td>
+      <td rowspan="3",  align="center">132 <br>+ <br>58</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUisBmoBqGdIkyLPfUSNrBMB6pNEO0C_LcDDs4TTGTvOuA?e=cSGdqy" target=page>Nikon D750</a>,<br>6016x4016 px<br><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EbSBpKBNQARChkcKhqCCgFcBS48zEmOEpX6HdbsC7g9PaQ?e=jnmtwO" target=page>Canon EOS 600D</a,<br>5184x3456 px</td>
       <td rowspan="3",  align="center">2500x2500</td>
       <td rowspan="3",  align="center">Terrestrial <br>+ <br>UAV images</td>
       <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
@@ -299,12 +299,12 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Modena_network.png" height="103" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Baalshamin</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/Ed3K5XJDBhdBtvtb21YdiNEBmwZfD5iHfE7m1UsYWbNVPw?e=bpdtcQ" target=page>47</a>a</td>
+      <td colspan="1",  align="center">Baalshamin temple</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/Ed3K5XJDBhdBtvtb21YdiNEBmwZfD5iHfE7m1UsYWbNVPw?e=bpdtcQ" target=page>47</a><br>(ca 100 MB)</td>
       <td rowspan="3",  align="center">Multiple cameras, <br>From 600x399 px<br>to<br>4288x2848 px</td>
       <td rowspan="3",  align="center">500x1500</td>
       <td rowspan="3",  align="center">Lost object, <br>Sub-optimal baselines, <br>Unordered touristic images, <br>Multiple resolutions</td>
-      <td rowspan="3",  align="center"></td>
+      <td rowspan="3",  align="center">-</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Baalshamin.png" height="98" width="130"> </td>
@@ -315,11 +315,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td rowspan="6",  align="center"><strong>Aerial</td>
       <td colspan="1",  align="center">Drone / UAV</td>
-      <td rowspan="3",  align="center"><a href="" target=page>224</a> (ca 6 GB)</td>
+      <td rowspan="3",  align="center"><a href="" target=page>224</a><br>(ca 6 GB)</td>
       <td rowspan="3",  align="center">Sony, <br>7952x5304 px</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
-      <td rowspan="3",  align="center"><a href="">Airborne Laser Scanner (ca 3 GB)</a></td>
+      <td rowspan="3",  align="center"><a href="">Airborne Laser Scanner<br>(ca 3 GB)</a></td>
     <tr>
       <td align="center"><img src="./pictures/Aerial/Drone.png" height="86" width="130"> </td>
     </tr>
@@ -332,7 +332,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">IGI Multi-sensor, 5 views <br>6132x8176 px at Nadir, 50 mm<br>8176x6132 px at Oblique, 80 mm</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Dortmund_LiDAR_GT.rar?csf=1&web=1&e=APRnF8" target=page>Airborne Laser Scanner (ca 220 MB)</a></td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Dortmund_LiDAR_GT.rar?csf=1&web=1&e=APRnF8" target=page>Airborne Laser Scanner<br>(ca 220 MB)</a></td>
     <tr>
       <td align="center"><img src="./pictures/Aerial/aerial.png" height="97" width="130"> </td>
     </tr>
