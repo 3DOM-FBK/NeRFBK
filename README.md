@@ -300,7 +300,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Baalshamin</td>
-      <td rowspan="3",  align="center">47</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/Ed3K5XJDBhdBtvtb21YdiNEBmwZfD5iHfE7m1UsYWbNVPw?e=bpdtcQ" target=page>47</a>a</td>
       <td rowspan="3",  align="center">Multiple cameras, <br>From 600x399 px<br>to<br>4288x2848 px</td>
       <td rowspan="3",  align="center">500x1500</td>
       <td rowspan="3",  align="center">Lost object, <br>Sub-optimal baselines, <br>Unordered touristic images, <br>Multiple resolutions</td>
