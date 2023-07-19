@@ -20,8 +20,8 @@ If you use these data and you publish any result, please acknolwedge this reposi
   <thead>
     <tr>
       <th  width="10%"></th>
-      <th  width="40%">Dataset</th>
-      <th  width="10%">Numb. images</th>
+      <th  width="30%">Dataset</th>
+      <th  width="20%">Numb. images</th>
       <th  width="20%">Camera type &<br>image size</th>
       <th  width="10%">Approx.<br>size(cm)</th>
       <th  width="20%">Description</th>
