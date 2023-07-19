@@ -328,11 +328,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
      </tr>
     <tr>
       <td colspan="1",  align="center">Dortmund</td>
-      <td rowspan="3",  align="center">59<br><a href="">cam0</a> (ca 2GB),<br><a href="">cam1</a> (ca 1.8 GB),<br><a href="">cam2</a> (ca 1 GB),<br><a href="">cam3</a> (ca 1 GB),<br><a href="">cam4</a> (ca 1 GB))</td>
+      <td rowspan="3",  align="center">59<br><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/Eax_wsvVHqhLlbpnX_SYxR0B8yxGpFm1MQ7uVHVjT_RUCQ?e=WTa9af" target=page>cam0</a> (ca 2GB),<br><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EYgksm7lO-NFlvViNr5vNVMBLAGeQ7mvKdeI8s0QOOs49A?e=xOUbX4">cam1</a> (ca 1.8 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam2.zip?csf=1&web=1&e=NyFIbq" target=page>cam2</a> (ca 1 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam3.zip?csf=1&web=1&e=9gphce" target=page>cam3</a> (ca 1 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam4.zip?csf=1&web=1&e=v9tmIH" target=page>cam4</a> (ca 1 GB))</td>
       <td rowspan="3",  align="center">IGI Multi-sensor, 5 views <br>6132x8176 px at Nadir, 50 mm<br>8176x6132 px at Oblique, 80 mm</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
-      <td rowspan="3",  align="center"><a href="">Airborne Laser Scanner (ca 220 MB)</a></td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Dortmund_LiDAR_GT.rar?csf=1&web=1&e=APRnF8" target=page>Airborne Laser Scanner (ca 220 MB)</a></td>
     <tr>
       <td align="center"><img src="./pictures/Aerial/aerial.png" height="97" width="130"> </td>
     </tr>
