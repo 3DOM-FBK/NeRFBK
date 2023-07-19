@@ -175,7 +175,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="30",  align="center"><strong>Heritage</td>
       <td colspan="1",  align="center">Doss Trento</td>
       <td rowspan="3",  align="center">761</td>
-      <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px<br> and <br>540x690 px</td>
+      <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">2500x2500 <br>x1500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
       <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
