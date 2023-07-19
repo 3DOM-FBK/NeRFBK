@@ -86,7 +86,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
         <td align="center"><img src="./pictures/Industrial/Synthetic_Metallic_network.png" height="130" width="130"></td>
     </tr>
-      <tr>
+    <tr>
       <td rowspan="15",  align="center"><strong>Transparent</td>
       <td colspan="1",  align="center">Glass_A</td>
       <td rowspan="3",  align="center">552</td>
