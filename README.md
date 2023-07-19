@@ -1,6 +1,4 @@
-# NERFBK: 
-# A HOLISTIC DATASET FOR BENCHMARKING NERF-BASED 3D RECONSTRUCTION
-
+# NERFBK: A HOLISTIC DATASET FOR BENCHMARKING NERF-BASED 3D RECONSTRUCTION
 This is a repository of image collections - called NeRFBK - with real and synthetic data specifically assembled to support researchers in evaluating and comparing the performances of NeRF algorithms against a reliable and accurate Ground Truth (GT). 
 The data contains:
 - industrial objects (reflective and textureless metallic surfaces);
