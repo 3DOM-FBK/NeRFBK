@@ -296,7 +296,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Modena.png" height="87" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Heritage/Modena.png" height="87" width="130"> </td>
+      <td align="center"><img src="./pictures/Heritage/Modena_network.png" height="103" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Baalshamin</td>
