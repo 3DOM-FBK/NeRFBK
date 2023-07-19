@@ -192,7 +192,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Samsung S6, <br>3840x2160 px</td>
       <td rowspan="3",  align="center">1000x1000 <br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
-      <td rowspan="3",  align="center">Photogrammetry with Reflex camera</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/ETrVvtaAxABKtjk7nebla0MB4J-RxnnXi71Eb77OOPF9XA?e=XJ47hY" target=page>Photogrammetry with Reflex camera</a>a (ca 500 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Cyprus.png" height="87" width="130"> </td>
