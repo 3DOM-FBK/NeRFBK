@@ -258,11 +258,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Neptune temple</td>
-      <td rowspan="3",  align="center">680 <br>+ <br>214</td>
-      <td rowspan="3",  align="center">Nikon D3X, <br>6048x4032 px, <br>Canon EOS 550D, <br> 5184x3456 px</td>
+      <td rowspan="3",  align="center">680 terr.<br>+ <br>214 UAV</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EaYJ7HQE59VEqQCqWJpUtIABGjbRNKqGa-VTEX1-1Kd_Xw?e=vr1fFy" target=page>Nikon D3X, <br>6048x4032 px, <br><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVyJxrzrSX5Frxuk4BdBgygBVMZ8xRUQBoV-yOiywEXpKg?e=PDCdP5" target=page>Canon EOS 550D</a>, <br> 5184x3456 px</td>
       <td rowspan="3",  align="center">2500x1500 <br>x7000</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Terrestrial <br>+ <br>UAV images</td>
-      <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
+      <td rowspan="3",  align="center"><a hreaf="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZ7a0BcDQUdBg_gIlGr0rSYBU3i-1vFxhzA0inJGXC8vFA?e=0AZb7B" target=page>Terrestrial Laser Scanner</a><br>(ca 50 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Neptune.png" height="87" width="130"> </td>
@@ -272,11 +272,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Trento Duomo</td>
-      <td rowspan="3",  align="center">565</td>
+      <td rowspan="3",  align="center"><a href="" target=page>565</a<br>(ca 4 GB)</td>
       <td rowspan="3",  align="center">Samsung S6, <br>5312x2988 px</td>
       <td rowspan="3",  align="center">8000x8000</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Terrestrial</td>
-      <td rowspan="3",  align="center"></td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EaK8oBhSNrhIiNyvQ0X3qs8BbO9PNKQnidhSmXYU8DkQmA?e=5MCr9H" target=page>Photogrammetry with Reflex camera</a><br>(ca 2.6 GB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Duomo.png" height="74" width="130"> </td>
@@ -287,10 +287,10 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td colspan="1",  align="center">Modena cathedral</td>
       <td rowspan="3",  align="center">132 <br>+ <br>58</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUisBmoBqGdIkyLPfUSNrBMB6pNEO0C_LcDDs4TTGTvOuA?e=cSGdqy" target=page>Nikon D750</a>,<br>6016x4016 px<br><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EbSBpKBNQARChkcKhqCCgFcBS48zEmOEpX6HdbsC7g9PaQ?e=jnmtwO" target=page>Canon EOS 600D</a,<br>5184x3456 px</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUisBmoBqGdIkyLPfUSNrBMB6pNEO0C_LcDDs4TTGTvOuA?e=cSGdqy" target=page>Nikon D750</a>,<br>6016x4016 px<br><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EbSBpKBNQARChkcKhqCCgFcBS48zEmOEpX6HdbsC7g9PaQ?e=jnmtwO" target=page>Canon EOS 600D</a>,<br>5184x3456 px</td>
       <td rowspan="3",  align="center">2500x2500</td>
       <td rowspan="3",  align="center">Terrestrial <br>+ <br>UAV images</td>
-      <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EcgXjXU_y4NGto79_nRfBtgBQq0AKqosULKiMyfhywXWhQ?e=mhjPNF" target=page>Terrestrial Laser Scanner</a><br>(ca 4.8 GB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Modena.png" height="87" width="130"> </td>
