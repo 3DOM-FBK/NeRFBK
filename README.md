@@ -30,7 +30,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
   </thead>
   <tbody> 
     <tr>
-      <td rowspan="12", align="center" ><strong>INDUSTRIAL</td>
+      <td rowspan="12", align="center" ><strong>I<br>N<br>D<br>U<br>S<br>T<br>R<br>I<br>A<br>L</td>
       <td colspan="1",  align="center">Industrial_A</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERVOA91ETFJNtw141SOr5zEBkfwsOpRMJxemXypER5TOaw?e=xMY1rU" target=page>295</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
@@ -333,12 +333,6 @@ ISPRS Benchmark for Multi-Platform Photogrammetry.
 Nex, F., Gerke, M., Remondino, F., Przybilla H.-J., Bäumker, M., Zurhorst, A., 2015. 
 ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. II-3/W4, pp.135-142.
 
-## Citation
-
-Please consider citing our work:
-
-    @inproceedings{
-    }
 
 ---
 ## <a name="changelog"></a> Changelog 
