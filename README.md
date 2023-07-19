@@ -325,7 +325,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
      <tr>
       <td align="center"><img src="./pictures/Aerial/Aerial_network.png" height="116" width="130"> </td>
      </tr>
-    </tr>
+
   </tbody>
   </table>
 </div>
