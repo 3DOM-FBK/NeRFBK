@@ -81,7 +81,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Synthetic data</td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Industrial/Synthetic.png" height="73" width="130"> </td>
+      <td align="center"><img src="./pictures/Industrial/Synthetic.png?raw=True" height="73" width="130"> </td>
     </tr>
     <tr>
         <td align="center"><img src="./pictures/Industrial/Synthetic_network.png" height="73" width="130"> </td>
