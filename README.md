@@ -63,8 +63,8 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERH-2pwnZGxCkKKDyvR7prIB1m6zq9Gng0K4p6VAmNRFrg?e=YwQXLX" target=page>373</a><br>(ca 250 MB)</td>
       <td rowspan="3",  align="center">Virtual pinhole camera, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">11x11x2</td>
-      <td rowspan="3",  align="center">Well-textured, <br>Complex, <br>Video</td>
-      <td rowspan="3",  align="center">Synthetic data</td>
+      <td rowspan="3",  align="center">Well-textured, <br>Sharp edges, <br>Video</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EbnFzNi39B1MpFKUZ7_mafcB0fltOlNguTbJa9wJFg3COw?e=PXRj8v" target=page>Synthetic data</a><br>(ca 1 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Synthetic.png?raw=True" height="73" width="130"> </td>
@@ -116,12 +116,12 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Cup_network.png" height="130" width="93"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Transbottle</td>
-      <td rowspan="3",  align="center">300</td>
+      <td colspan="1",  align="center">Transparent bottle</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/Ec7ASJPZ939Fmh3hXPnLUx4BW8T0h6O7gFJw0E7fzm2r5A?e=h1hTRd" target=page>300</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">6x6x30</td>
       <td rowspan="3",  align="center">Complex shape, <br>Highly refractive, <br>Video</td>
-      <td rowspan="3",  align="center">Photogrammetry</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EcRTm8FkdlpNr1ElWd66nQwBqG06sN9fPjF3BrABX2sQ1g?e=WEwvnF" target=page>Photogrammetry on powdered surface</a><br>(ca 290 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Transparent/Transbottle.png" height="130" width="120"> </td>
