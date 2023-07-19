@@ -95,10 +95,10 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Synthetic data</td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic.png)" height="130" width="130"></td>
+      <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic.png" height="130" width="130"></td>
     </tr>
     <tr>
-        <td align="center"><img src="./pictures/Industrial/Synthetic_Metallic_network.png)" height="130" width="130"></td>
+        <td align="center"><img src="./pictures/Industrial/Synthetic_Metallic_network.png" height="130" width="130"></td>
     </tr>
     <tr>
       <td rowspan="15",  align="center"><strong>Transparent</td>
