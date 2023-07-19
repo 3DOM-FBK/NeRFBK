@@ -164,7 +164,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Samsung S6, <br>3840x2160 px</td>
       <td rowspan="3",  align="center">1500x1500<br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, video</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/ETrVvtaAxABKtjk7nebla0MB4J-RxnnXi71Eb77OOPF9XA?e=XJ47hY" target=page>Photogrammetry with Reflex camera</a><br>(ca 500 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ETrVvtaAxABKtjk7nebla0MB4J-RxnnXi71Eb77OOPF9XA?e=hbzDAK" target=page>Photogrammetry with Reflex camera</a><br>(ca 500 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Cyprus.png" height="87" width="130"> </td>
@@ -174,11 +174,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Statue</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EUtXOsDBN_BCvy5bXx_gs2gBoliC7UpD_LQxQLphQDZrgQ?e=2DXpXu" target=page>100</a><br>(ca 100 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUtXOsDBN_BCvy5bXx_gs2gBoliC7UpD_LQxQLphQDZrgQ?e=UgxtqW" target=page>100</a><br>(ca 100 MB)</td>
       <td rowspan="3",  align="center">Ideal reflex camera, <br>6016x4016 px</td>
       <td rowspan="3",  align="center">200x100 <br>x500</td>
-      <td rowspan="3",  align="center">Outdoor large scale, <br>Two cameras</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EVy9uWyQkfNEiRRTF1EvhkgBT_pJJ99hPuiXEVuiSOUNUQ?e=aZD7F4"target=page>Synthetic data</a></td>
+      <td rowspan="3",  align="center">Outdoor large scale, <br>Two scales</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVy9uWyQkfNEiRRTF1EvhkgBT_pJJ99hPuiXEVuiSOUNUQ?e=LRCeFJ" target=page>Synthetic data</a><br>(ca 2 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Statue.png" height="104" width="130"> </td>
