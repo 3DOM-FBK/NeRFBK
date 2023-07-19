@@ -188,10 +188,10 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Cyprus monument</td>
-      <td rowspan="3",  align="center">176</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZMbbYGAaWtLjUDTPa3xDeEBsY9BMJryLRVGR2CIClTx0w?e=XHv4av" target=page>2942</a><br>(ca 900 MB)</td>
       <td rowspan="3",  align="center">Samsung S6, <br>3840x2160 px</td>
-      <td rowspan="3",  align="center">1000x1000 <br>x500</td>
-      <td rowspan="3",  align="center">Outdoor large scale</td>
+      <td rowspan="3",  align="center">1500x1500<br>x500</td>
+      <td rowspan="3",  align="center">Outdoor large scale, video</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/ETrVvtaAxABKtjk7nebla0MB4J-RxnnXi71Eb77OOPF9XA?e=XJ47hY" target=page>Photogrammetry with Reflex camera</a><br>(ca 500 MB)</td>
     </tr>
     <tr>
@@ -328,7 +328,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
      </tr>
     <tr>
       <td colspan="1",  align="center">Dortmund</td>
-      <td rowspan="3",  align="center">59<br><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/Eax_wsvVHqhLlbpnX_SYxR0B8yxGpFm1MQ7uVHVjT_RUCQ?e=WTa9af" target=page>cam0</a><br>(ca 2GB),<br><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EYgksm7lO-NFlvViNr5vNVMBLAGeQ7mvKdeI8s0QOOs49A?e=xOUbX4">cam1</a><br>(ca 1.8 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam2.zip?csf=1&web=1&e=NyFIbq" target=page>cam2</a><br>(ca 1 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam3.zip?csf=1&web=1&e=9gphce" target=page>cam3</a><br>(ca 1 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam4.zip?csf=1&web=1&e=v9tmIH" target=page>cam4</a><br>(ca 1 GB))</td>
+      <td rowspan="3",  align="center">59<br><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/Eax_wsvVHqhLlbpnX_SYxR0B8yxGpFm1MQ7uVHVjT_RUCQ?e=WTa9af" target=page>cam0</a><br>(ca 2GB),<br><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EYgksm7lO-NFlvViNr5vNVMBLAGeQ7mvKdeI8s0QOOs49A?e=xOUbX4">cam1</a><br>(ca 1.8 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam2.zip?csf=1&web=1&e=NyFIbq" target=page>cam2</a><br>(ca 1 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam3.zip?csf=1&web=1&e=9gphce" target=page>cam3</a><br>(ca 1 GB),<br><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Cam4.zip?csf=1&web=1&e=v9tmIH" target=page>cam4</a><br>(ca 1 GB)</td>
       <td rowspan="3",  align="center">IGI Multi-sensor, 5 views <br>6132x8176 px at Nadir, 50 mm<br>8176x6132 px at Oblique, 80 mm</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
