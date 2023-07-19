@@ -202,7 +202,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Statue</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EUtXOsDBN_BCvy5bXx_gs2gBoliC7UpD_LQxQLphQDZrgQ?e=2DXpXu" target=page>100</a></td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/NerFBK/EUtXOsDBN_BCvy5bXx_gs2gBoliC7UpD_LQxQLphQDZrgQ?e=2DXpXu" target=page>100 (ca 100 MB)</a></td>
       <td rowspan="3",  align="center">Ideal reflex camera, <br>6016x4016 px</td>
       <td rowspan="3",  align="center">200x100 <br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Two cameras</td>
