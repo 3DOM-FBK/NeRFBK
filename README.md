@@ -56,7 +56,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Industrial/Industrial_B.png" height="99" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Industrial/Industrial_B.png" height="99" width="130"> </td>
+      <td align="center"><img src="./pictures/Industrial/Industrial_B_network.png" height="99" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Industrial_C</td>
@@ -70,7 +70,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="128" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="128" width="130"> </td>
+      <td align="center"><img src="./pictures/Industrial/Industrial_C_network.png" height="128" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Synthetic</td>
@@ -84,7 +84,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Industrial/Synthetic.png" height="73" width="130"> </td>
     </tr>
     <tr>
-        <td align="center"><img src="./pictures/Industrial/Synthetic.png" height="73" width="130"> </td>
+        <td align="center"><img src="./pictures/Industrial/Synthetic_network.png" height="73" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Synthetic_Metallic</td>
@@ -98,7 +98,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic.png?raw=true)" height="130" width="130"></td>
     </tr>
     <tr>
-        <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic.png?raw=true)" height="130" width="130"></td>
+        <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic_network.png?raw=true)" height="130" width="130"></td>
     </tr>
     <tr>
       <td rowspan="15",  align="center"><strong>Transparent</td>
@@ -113,7 +113,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Glass_A.png" height="130" width="128"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Transparent/Glass_A.png" height="130" width="128"> </td>
+      <td align="center"><img src="./pictures/Transparent/Glass_A_network.png" height="130" width="128"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Glass_B</td>
@@ -127,7 +127,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Glass_B.png" height="111" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Transparent/Glass_B.png" height="111" width="130"> </td>
+      <td align="center"><img src="./pictures/Transparent/Glass_B_network.png" height="111" width="130"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Cup</td>
@@ -141,7 +141,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Cup.png" height="130" width="93"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Transparent/Cup.png" height="130" width="93"> </td>
+      <td align="center"><img src="./pictures/Transparent/Cup_network.png" height="130" width="93"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Transbottle</td>
@@ -155,7 +155,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Transbottle.png" height="130" width="120"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Transparent/Transbottle.png" height="130" width="120"> </td>
+      <td align="center"><img src="./pictures/Transparent/Transbottle_network.png" height="130" width="120"> </td>
     </tr>
     <tr>
       <td colspan="1",  align="center">Synthetic_Glass</td>
@@ -169,7 +169,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Syntethic_Glass.png" height="130" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Transparent/Syntethic_Glass.png" height="130" width="130"> </td>
+      <td align="center"><img src="./pictures/Transparent/Syntethic_Glass_network.png" height="130" width="130"> </td>
     </tr>
     <tr>
       <td rowspan="30",  align="center"><strong>Heritage</td>
