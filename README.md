@@ -41,7 +41,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">5x5x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Small and Complex, <br>Reflective, <br>Video</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ES-5jysUwX5GmbdEOvzc4KsBc5qi-Dpu62pVq14Xwq2f3Q?e=abkb4e" target=page>Triangulation laser scanner</a><br>(ca 50 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/BENCHMARKS/Shared%20Documents/NeRFBK_datasets/Industrial/Industrial_A/GT/Industrial_A_GT.stl?csf=1&web=1&e=jUBAsB" target=page>Triangulation laser scanner</a><br>(ca 171 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="111" width="130"></td>
@@ -112,7 +112,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">8x8x10</td>
       <td rowspan="3",  align="center">Complex shape, <br>Highly refractive, <br>Video</td>
-      <td rowspan="3",  align="center">Photogrammetry</td>
+      <td rowspan="3",  align="center"><a href="<a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUAszNrfR2NJk9wQhz5xqTQBIg3n_AeFwnzlmSr-cifOzQ?e=2whLEQ" target=page>Photogrammetry<br>(ca 138 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Transparent/Cup.png" height="130" width="93"> </td>
