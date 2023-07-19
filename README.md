@@ -244,11 +244,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Tunnel</td>
-      <td rowspan="3",  align="center">4353</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZlJda2V3SJMpzuI8mWuJoAB-6Zyzp_VpNWE0g2wRVohEg?e=fQBAc2" target=page>4353</a></td>
       <td rowspan="3",  align="center">RealSense D455, <br>640x480 px</td>
       <td rowspan="3",  align="center">8000x300 <br>x200</td>
-      <td rowspan="3",  align="center">Underground, <br>Mobile robot based, <br> High framerate</td>
-      <td rowspan="3",  align="center">Terrestrial Laser Scanner</td>
+      <td rowspan="3",  align="center">Underground, <br>Mobile robot based, <br> High frame-rate</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVDolcU8esxFlSLcpQem6JABo01ZrXdzTBds5k3GIx6uWA?e=9lpdch" target=page>Terrestrial Laser Scanner</a><br>(ca 200 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Tunnel.png" height="127" width="130"> </td>
@@ -258,10 +258,10 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Neptune temple</td>
-      <td rowspan="3",  align="center">680 terr.<br>+ <br>214 UAV</td>
+      <td rowspan="3",  align="center">680<br>+ <br>214</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EaYJ7HQE59VEqQCqWJpUtIABGjbRNKqGa-VTEX1-1Kd_Xw?e=vr1fFy" target=page>Nikon D3X</a>, <br>6048x4032 px, <br><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVyJxrzrSX5Frxuk4BdBgygBVMZ8xRUQBoV-yOiywEXpKg?e=PDCdP5" target=page>Canon EOS 550D</a>, <br> 5184x3456 px</td>
       <td rowspan="3",  align="center">2500x1500 <br>x7000</td>
-      <td rowspan="3",  align="center">Outdoor large scale, <br>Terrestrial <br>+ <br>UAV images</td>
+      <td rowspan="3",  align="center">Terrestrial <br>+ <br>UAV images<br>Outdoor large scale</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZ7a0BcDQUdBg_gIlGr0rSYBU3i-1vFxhzA0inJGXC8vFA?e=0AZb7B" target=page>Terrestrial Laser Scanner</a><br>(ca 50 MB)</td>
     </tr>
     <tr>
@@ -272,7 +272,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Trento Duomo</td>
-      <td rowspan="3",  align="center"><a href="" target=page>565</a<br>(ca 4 GB)</td>
+      <td rowspan="3",  align="center"><a href="" target=page>565</a><br>(ca 4 GB)</td>
       <td rowspan="3",  align="center">Samsung S6, <br>5312x2988 px</td>
       <td rowspan="3",  align="center">8000x8000</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Terrestrial</td>
@@ -289,7 +289,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">132 <br>+ <br>58</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUisBmoBqGdIkyLPfUSNrBMB6pNEO0C_LcDDs4TTGTvOuA?e=cSGdqy" target=page>Nikon D750</a>,<br>6016x4016 px<br><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EbSBpKBNQARChkcKhqCCgFcBS48zEmOEpX6HdbsC7g9PaQ?e=jnmtwO" target=page>Canon EOS 600D</a>,<br>5184x3456 px</td>
       <td rowspan="3",  align="center">2500x2500</td>
-      <td rowspan="3",  align="center">Terrestrial <br>+ <br>UAV images</td>
+      <td rowspan="3",  align="center">Terrestrial <br>+ <br>UAV images<br>Large scale architecture</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EcgXjXU_y4NGto79_nRfBtgBQq0AKqosULKiMyfhywXWhQ?e=mhjPNF" target=page>Terrestrial Laser Scanner</a><br>(ca 4.8 GB)</td>
     </tr>
     <tr>
