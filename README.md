@@ -216,11 +216,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Vase</td>
-      <td rowspan="3",  align="center">50</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EXpwaA2mvcJNrtajEISiBdMBumqdHtBkAWZmpi0lYhwH6w?e=AOKeeD" target=page>50</a><br>(ca 1 GB)</td>
       <td rowspan="3",  align="center">Google Pixel2, <br>4024x3016 px</td>
       <td rowspan="3",  align="center">30x30</td>
       <td rowspan="3",  align="center">Indoor</td>
-      <td rowspan="3",  align="center">Terrestrial Laser Scanner, <br> Photogrammetry with Reflex camera</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EXAlapxZPnxDuIp4wkJARx4BQZeJUMIOdi_txEuJBOvuCw?e=p48RCb" target=page>Photogrammetry with Reflex camera</a><br>(ca 500 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Vase.png" height="130" width="95"> </td>
