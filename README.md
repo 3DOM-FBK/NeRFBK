@@ -59,20 +59,6 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Industrial/Industrial_B_network.png" height="99" width="130"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Industrial_C</td>
-      <td rowspan="3",  align="center">213</td>
-      <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
-      <td rowspan="3",  align="center">7x7x14</td>
-      <td rowspan="3",  align="center">Textureless, <br>Complex, <br>Reflective, <br>Video</td>
-      <td rowspan="3",  align="center">Triangulation scanner</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./pictures/Industrial/Industrial_C.png" height="128" width="130"> </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="./pictures/Industrial/Industrial_C_network.png" height="128" width="130"> </td>
-    </tr>
-    <tr>
       <td colspan="1",  align="center">Synthetic</td>
       <td rowspan="3",  align="center">373</td>
       <td rowspan="3",  align="center">Virtual pinhole camera, <br>1920x1080 px</td>
