@@ -30,7 +30,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
   </thead>
   <tbody> 
     <tr>
-      <td rowspan="25", align="center" ><strong>INDUSTRIAL</td>
+      <td rowspan="12", align="center" ><strong>INDUSTRIAL</td>
       <td colspan="1",  align="center">Industrial_A</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERVOA91ETFJNtw141SOr5zEBkfwsOpRMJxemXypER5TOaw?e=xMY1rU" target=page>295</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
