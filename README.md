@@ -98,7 +98,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic.png?raw=true)" height="130" width="130"></td>
     </tr>
     <tr>
-        <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic_network.png?raw=true)" height="130" width="130"></td>
+        <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic_network.png)" height="130" width="130"></td>
     </tr>
     <tr>
       <td rowspan="15",  align="center"><strong>Transparent</td>
@@ -169,7 +169,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Syntethic_Glass.png" height="130" width="130"> </td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Transparent/Syntethic_Glass_network.png" height="130" width="130"> </td>
+      <td align="center"><img src="./pictures/Transparent/Synthetic_Glass_network.png" height="130" width="130"> </td>
     </tr>
     <tr>
       <td rowspan="30",  align="center"><strong>Heritage</td>
