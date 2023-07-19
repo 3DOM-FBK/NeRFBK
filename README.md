@@ -60,7 +60,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Synthetic</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERH-2pwnZGxCkKKDyvR7prIB1m6zq9Gng0K4p6VAmNRFrg?e=tdsCJ4" target=page>373</a><br>(ca 250 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERH-2pwnZGxCkKKDyvR7prIB1m6zq9Gng0K4p6VAmNRFrg?e=YwQXLX" target=page>373</a><br>(ca 250 MB)</td>
       <td rowspan="3",  align="center">Virtual pinhole camera, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">11x11x2</td>
       <td rowspan="3",  align="center">Well-textured, <br>Complex, <br>Video</td>
@@ -88,9 +88,9 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td rowspan="12",  align="center"><strong>Transparent</td>
-      <td colspan="1",  align="center">Glass_A</td>
-      <td rowspan="3",  align="center">552</td>
-      <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
+      <td colspan="1",  align="center">Glass</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVP3CFI_2zVFrz3XiCgHr2oBQnCW4C9UAFy0Ma8inRRjdw?e=BB77RW" target=page>552</a><br>(ca 380 MB)</td>
+      <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">5x5x25</td>
       <td rowspan="3",  align="center">Complex shape, <br>Highly refractive, <br>Video</td>
       <td rowspan="3",  align="center">Photogrammetry</td>
