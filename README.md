@@ -36,7 +36,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">5x5x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Small and Complex, <br>Reflective, <br>Two acquisitions, <br>Video</td>
-      <td rowspan="3",  align="center">Triangulation scanner</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ES-5jysUwX5GmbdEOvzc4KsBc5qi-Dpu62pVq14Xwq2f3Q?e=gGQIo9" target=page>Triangulation laser scanner</a><br>(ca 50 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="111" width="130"></td>
@@ -58,7 +58,8 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_B_network.png" height="99" width="130"> </td>
     </tr>
-    <tr>
+    <!---
+        <tr>
       <td colspan="1",  align="center">Industrial_C</td>
       <td rowspan="3",  align="center">213</td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
@@ -72,6 +73,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_C_network.png" height="128" width="130"> </td>
     </tr>
+     -->
     <tr>
       <td colspan="1",  align="center">Synthetic</td>
       <td rowspan="3",  align="center">373</td>
