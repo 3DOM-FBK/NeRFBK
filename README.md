@@ -30,7 +30,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
   </thead>
   <tbody> 
     <tr>
-      <td rowspan="12",  align="center" ><strong>Industrial</td>
+      <td rowspan="12",  align="center" ><strong>INDUSTRIAL</td>
       <td colspan="1",  align="center">Industrial_A</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERVOA91ETFJNtw141SOr5zEBkfwsOpRMJxemXypER5TOaw?e=xMY1rU" target=page>295</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
@@ -87,13 +87,13 @@ If you use these data and you publish any result, please acknolwedge this reposi
         <td align="center"><img src="./pictures/Industrial/Synthetic_Metallic_network.png" height="130" width="130"></td>
     </tr>
     <tr>
-      <td rowspan="12",  align="center"><strong>Transparent</td>
+      <td rowspan="12",  align="center"><strong>TRANSPARENT</td>
       <td colspan="1",  align="center">Glass</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVP3CFI_2zVFrz3XiCgHr2oBQnCW4C9UAFy0Ma8inRRjdw?e=BB77RW" target=page>552</a><br>(ca 380 MB)</td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">5x5x25</td>
-      <td rowspan="3",  align="center">Complex shape, <br>Highly refractive, <br>Video</td>
-      <td rowspan="3",  align="center">Photogrammetry</td>
+      <td rowspan="3",  align="center">Complex transparent shape, <br>Highly refractive, <br>Video</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUAszNrfR2NJk9wQhz5xqTQBIg3n_AeFwnzlmSr-cifOzQ?e=2whLEQ" target=page>Photogrammetry on powdered surface</a><br>(ca 50 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Transparent/Glass_A.png" height="130" width="128"> </td>
@@ -116,7 +116,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Cup_network.png" height="130" width="93"> </td>
     </tr>
     <tr>
-      <td colspan="1",  align="center">Transparent bottle</td>
+      <td colspan="1",  align="center">Bottle</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/Ec7ASJPZ939Fmh3hXPnLUx4BW8T0h6O7gFJw0E7fzm2r5A?e=h1hTRd" target=page>300</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">6x6x30</td>
@@ -131,11 +131,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Synthetic_Glass</td>
-      <td rowspan="3",  align="center">300</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EQEyO6YjdJdHjAPVUkvDS5UBLto0yAMUgBDWf0YSObVX0w?e=LjAFdi" target=page></a>300<br>(ca 750 MB)</td>
       <td rowspan="3",  align="center">Virtual pinhole camera, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">10x10x22</td>
-      <td rowspan="3",  align="center">Complex shape, <br>Highly refractive, <br>Video</td>
-      <td rowspan="3",  align="center">Synthetic data</td>
+      <td rowspan="3",  align="center">Transparent, <br>Highly refractive, <br>Video</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EWXa8y1CzYJOtzKnk3aoSVYBs0UPBCuRdbYCa5SW1cqMtw?e=DayQYj" target=page>Synthetic data</a><br>(ca 6 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Transparent/Syntethic_Glass.png" height="130" width="130"> </td>
@@ -144,7 +144,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Transparent/Synthetic_Glass_network.png" height="130" width="130"> </td>
     </tr>
     <tr>
-      <td rowspan="30",  align="center"><strong>Heritage</td>
+      <td rowspan="30",  align="center"><strong>HERITAGE</td>
       <td colspan="1",  align="center">Doss Trento</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUz26UVqOBNPpAomuVvEYeUB3qM_IwOw545Ve9m5qBr49A?e=bFJSpl" target=page>761</a><br>(ca 150 MB)</td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
@@ -285,7 +285,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td align="center"><img src="./pictures/Heritage/Baalshamin_network.png" height="39" width="130"> </td>
     </tr>
     <tr>
-      <td rowspan="6",  align="center"><strong>Aerial</td>
+      <td rowspan="6",  align="center"><strong>AERIAL</td>
       <td colspan="1",  align="center">Drone / UAV</td>
       <td rowspan="3",  align="center"><a href="" target=page>224</a><br>(ca 6 GB)</td>
       <td rowspan="3",  align="center">Sony, <br>7952x5304 px</td>
