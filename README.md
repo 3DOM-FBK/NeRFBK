@@ -32,11 +32,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td rowspan="12",  align="center" ><strong>Industrial</td>
       <td colspan="1",  align="center">Industrial_A</td>
-      <td rowspan="3",  align="center">295</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERVOA91ETFJNtw141SOr5zEBkfwsOpRMJxemXypER5TOaw?e=xMY1rU" target=page>295</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">5x5x4</td>
-      <td rowspan="3",  align="center">Textureless, <br>Small and Complex, <br>Reflective, <br>Two acquisitions, <br>Video</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ES-5jysUwX5GmbdEOvzc4KsBc5qi-Dpu62pVq14Xwq2f3Q?e=gGQIo9" target=page>Triangulation laser scanner</a><br>(ca 50 MB)</td>
+      <td rowspan="3",  align="center">Textureless, <br>Small and Complex, <br>Reflective, <br>Video</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ES-5jysUwX5GmbdEOvzc4KsBc5qi-Dpu62pVq14Xwq2f3Q?e=abkb4e" target=page>Triangulation laser scanner</a><br>(ca 50 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="111" width="130"></td>
@@ -50,7 +50,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">15x12x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Complex, <br>Reflective, <br>Video</td>
-      <td rowspan="3",  align="center">Triangulation scanner</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZJDReFkxVpElA6XViAO910BX7x2-nKfAooUIPXD-JYEXg?e=Uzi39b" target=page>Triangulation laser scanner</a><br>(ca 190 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_B.png" height="99" width="130"> </td>
@@ -74,11 +74,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Synthetic_Metallic</td>
-      <td rowspan="3",  align="center">300</td>
+      <td rowspan="3",  align="center"><a href="" target=page></a>300<br>(ca 750 MB)</td>
       <td rowspan="3",  align="center">Virtual pinhole camera, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">16x16x13</td>
       <td rowspan="3",  align="center">Textureless, <br>Complex, <br>Reflective, <br>Video</td>
-      <td rowspan="3",  align="center">Synthetic data</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVKrneZ-EupCo1qSbqW1-AUBdM5DpS8tCEZAoIva2g1kDw?e=usJB6W" target=page>Synthetic data</a><br>(ca 10 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Syntethic_Metallic.png" height="130" width="130"></td>
@@ -150,7 +150,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">2500x2500 <br>x1500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
-      <td rowspan="3",  align="center"><a href="">Terrestrial Laser Scanner</a><br>(ca xx MB)</td>
+      <td rowspan="3",  align="center"><a href=""></a>Terrestrial Laser Scanner<br>(ca xx MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Doss.png" height="112" width="130"> </td>
