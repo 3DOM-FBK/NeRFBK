@@ -165,7 +165,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Cyprus monument</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZMbbYGAaWtLjUDTPa3xDeEBsY9BMJryLRVGR2CIClTx0w?e=XHv4av" target=page>178</a><br>(ca 100 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/Ef7PT12-NOBFsEJcN34jPLYBbEUH3hVsdD4HZ9WigPwRDg?e=c5V0cZ" target=page>178</a><br>(ca 100 MB)</td>
       <td rowspan="3",  align="center">Samsung S6, <br>3840x2160 px</td>
       <td rowspan="3",  align="center">1500x1500<br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, video</td>
@@ -249,7 +249,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Trento Duomo</td>
-      <td rowspan="3",  align="center"><a href="" target=page>565</a><br>(ca 4 GB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ES0hNd8v-uRJqkvpu1akbPYBv6_VSJlm5Rd0zibrM8hSCw?e=ZuH9l1" target=page>565</a><br>(ca 4 GB)</td>
       <td rowspan="3",  align="center">Samsung S6, <br>5312x2988 px</td>
       <td rowspan="3",  align="center">8000x8000</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Terrestrial</td>
