@@ -79,7 +79,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Synthetic_Metallic</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EXyAhh8BfJZJkIyWhDd_Z9EBi9tqJliFysiQthDv4-1eRw?e=GgVMVm" target=page></a>300<br>(ca 750 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EXyAhh8BfJZJkIyWhDd_Z9EBi9tqJliFysiQthDv4-1eRw?e=HefNwq" target=page>300</a><br>(ca 750 MB)</td>
       <td rowspan="3",  align="center">Virtual pinhole camera, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">16x16x13</td>
       <td rowspan="3",  align="center">Textureless, <br>Complex, <br>Reflective, <br>Video</td>
