@@ -108,7 +108,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Cup</td>
-      <td rowspan="3",  align="center">287</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EaE1mT-aXyJNnqVCTHBG8eEBrCksNs1gPRkUD6R4ctZz3Q?e=7RoMrw" target=page>287</a></td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">8x8x10</td>
       <td rowspan="3",  align="center">Complex shape, <br>Highly refractive, <br>Video</td>
