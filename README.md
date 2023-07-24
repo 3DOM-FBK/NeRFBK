@@ -151,7 +151,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td rowspan="30", valign="top"><strong>H<br>E<br>R<br>I<br>T<br>A<br>G<br>E</td>
       <td colspan="1",  align="center">Doss Trento</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUz26UVqOBNPpAomuVvEYeUB3qM_IwOw545Ve9m5qBr49A?e=bFJSpl" target=page>761</a><br>(ca 150 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUz26UVqOBNPpAomuVvEYeUB3qM_IwOw545Ve9m5qBr49A?e=n3UdGu" target=page>761</a><br>(ca 150 MB)</td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
       <td rowspan="3",  align="center">2500x2500 <br>x1500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
@@ -165,7 +165,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>
     <tr>
       <td colspan="1",  align="center">Cyprus monument</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZMbbYGAaWtLjUDTPa3xDeEBsY9BMJryLRVGR2CIClTx0w?e=XHv4av" target=page>2942</a><br>(ca 900 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EZMbbYGAaWtLjUDTPa3xDeEBsY9BMJryLRVGR2CIClTx0w?e=XHv4av" target=page>178</a><br>(ca 100 MB)</td>
       <td rowspan="3",  align="center">Samsung S6, <br>3840x2160 px</td>
       <td rowspan="3",  align="center">1500x1500<br>x500</td>
       <td rowspan="3",  align="center">Outdoor large scale, video</td>
