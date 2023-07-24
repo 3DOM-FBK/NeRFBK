@@ -51,7 +51,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     </tr>  
     <tr>
       <td colspan="1",  align="center">Industrial_B</td>
-      <td rowspan="3",  align="center">220</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EW1YpnL-yn1DpzyjT-jK-WUBDmWhTwx4x7ZNTGxbMaElWw?e=tECFoQ" target=page">220</a></td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">15x12x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Complex, <br>Reflective, <br>Video</td>
