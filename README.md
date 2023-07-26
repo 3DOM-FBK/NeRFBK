@@ -326,19 +326,15 @@ If you use these data and you publish any result, please acknolwedge this reposi
 
 NeRFBK was created by the [3D Optical Metrology unit (3DOM)](https://3dom.fbk.eu/) of Fondazione Bruno Kessler (FBK).
 
-The Statue set of images is part of the ENRICH dataset, available here: https://github.com/davidemarelli/ENRICH
-ENRICH: multi-purposE dataset for beNchmaRking In Computer vision and pHotogrammetry
+* The Statue set of images is part of the ENRICH dataset, available here: https://github.com/davidemarelli/ENRICH
+ENRICH: multi-purposE dataset for beNchmaRking In Computer vision and pHotogrammetry<br>
+Davide Marelli, Luca Morelli, Elisa Mariarosaria Farella, Simone Bianco, Gianluigi Ciocca, Fabio Remondino, 2023: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 198, Pages 84-98.
 
-Davide Marelli, Luca Morelli, Elisa Mariarosaria Farella, Simone Bianco, Gianluigi Ciocca, Fabio Remondino, 2-23.
-ISPRS Journal of Photogrammetry and Remote Sensing, Volume 198, Pages 84-98.
+* The UAV set of images is part of the USEGEO project, available here: https://usegeo.fbk.eu
 
-The UAV set of images is part of the USEGEO project, available here: https://usegeo.fbk.eu
-
-The Dortmund set of images is part of the ISPRS/EuroSDR Benchmark for Multi-Platform Photogrammetry, available here: https://www2.isprs.org/commissions/comm2/icwg-2-1a/benchmark_main/
-ISPRS Benchmark for Multi-Platform Photogrammetry.
-
-Nex, F., Gerke, M., Remondino, F., Przybilla H.-J., Bäumker, M., Zurhorst, A., 2015. 
-ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. II-3/W4, pp.135-142.
+* The Dortmund set of images is part of the ISPRS/EuroSDR Benchmark for Multi-Platform Photogrammetry, available here: https://www2.isprs.org/commissions/comm2/icwg-2-1a/benchmark_main/
+ISPRS Benchmark for Multi-Platform Photogrammetry.<br>
+Nex, F., Gerke, M., Remondino, F., Przybilla H.-J., Bäumker, M., Zurhorst, A., 2015: ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. II-3/W4, pp.135-142.
 
 
 ---
