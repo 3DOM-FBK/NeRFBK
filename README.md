@@ -13,7 +13,7 @@ For each scenario, images and GT data can be downloaded from the given links.
 
 If you use these data and you publish any result, please acknolwedge this repository and its related publications. Thanks!
 
-[**Related Papers**]
+## Related Papers
 - Gabriele Mazzacca, Ali Karami, Simone Rigon, Elisa Mariarosaria Farella, Pawel Trybala and Fabio Remondino, 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-M-2-2023/1051/2023/" target=page>NeRF FOR HERITAGE 3D RECONSTRUCTION</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-2-2023, pp. 1051–1058
 - Fabio Remondino, Ali Karami, Ziyang Yan, Gabriele Mazzacca, Simone Rigon and Rongjun Qin, 2023: <a href="https://www.mdpi.com/2072-4292/15/14/3585" target=page>A CRITICAL ANALYSIS OF NERF-BASED 3D RECONSTRUCTION</a>. Remote Sensing, Vol. 15(14), 3585
 - Ziyang Yan, Gabriele Mazzacca, Simone Rigon, Elisa Mariarosaria Farella, Pawel Trybala, Fabio Remondino, 2023: NERFBK: A HOLISTIC DATASET FOR BENCHMARKING NERF-BASED 3D RECONSTRUCTION. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., forthcoming / in preparation
@@ -323,7 +323,6 @@ If you use these data and you publish any result, please acknolwedge this reposi
 
 ---
 
-
 NeRFBK was created by the [3D Optical Metrology unit (3DOM)](https://3dom.fbk.eu/) of Fondazione Bruno Kessler (FBK).
 
 * The Statue set of images is part of the ENRICH dataset, available here: https://github.com/davidemarelli/ENRICH<br>
@@ -337,6 +336,7 @@ Nex, F., Gerke, M., Remondino, F., Przybilla H.-J., Bäumker, M., Zurhorst, A., 
 ---
 ## License
 The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ---
 ## <a name="changelog"></a> Changelog 
 * [15 Jul, 2023] Uploaded newest version.
