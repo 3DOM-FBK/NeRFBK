@@ -334,7 +334,9 @@ Davide Marelli, Luca Morelli, Elisa Mariarosaria Farella, Simone Bianco, Gianlui
 * The Dortmund set of images is part of the ISPRS/EuroSDR Benchmark for Multi-Platform Photogrammetry, available here: <a href="https://www2.isprs.org/commissions/comm2/icwg-2-1a/benchmark_main/">https://www2.isprs.org/commissions/comm2/icwg-2-1a/benchmark_main/</a><br>
 Nex, F., Gerke, M., Remondino, F., Przybilla H.-J., Bäumker, M., Zurhorst, A., 2015: <a href="https://isprs-annals.copernicus.org/articles/II-3-W4/135/2015/isprsannals-II-3-W4-135-2015.pdf">ISPRS Benchmark for Multi-Platform Photogrammetry</a>. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. II-3/W4, pp.135-142.
 
-
+---
+## License
+The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 ---
 ## <a name="changelog"></a> Changelog 
 * [15 Jul, 2023] Uploaded newest version.
