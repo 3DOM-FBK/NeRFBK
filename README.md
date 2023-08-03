@@ -41,7 +41,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">5x5x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Small and Complex, <br>Reflective, <br>Video</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/BENCHMARKS/Shared%20Documents/NeRFBK_datasets/Industrial/Industrial_A/GT/Industrial_A_GT.stl?csf=1&web=1&e=jUBAsB" target=page>Triangulation laser scanner</a><br>(ca 171 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EceGXlqG-r9MutbxfVhO-QgBHmpq5YdmCcjPjtheYEEqoA?e=ct4pQv" target=page>Triangulation laser scanner</a><br>(ca 171 MB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Industrial/Industrial_A.png" height="111" width="130"></td>
