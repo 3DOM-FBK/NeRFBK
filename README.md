@@ -292,11 +292,11 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td rowspan="6",  valign="top"><strong>A<br>E<br>R<br>I<br>A<br>L</td>
       <td colspan="1",  align="center">Drone / UAV</td>
-      <td rowspan="3",  align="center"><a href="" target=page>224</a><br>(ca 6 GB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/Eenw6S17Hz9MrKjmzIJ-mAcBbCPhpZ9oEUtrZAyuj5mSSw?e=b75CBC" target=page>224</a><br>(ca 6 GB)</td>
       <td rowspan="3",  align="center">Sony, <br>7952x5304 px</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
-      <td rowspan="3",  align="center"><a href="">Airborne Laser Scanner<br>(ca 3 GB)</a></td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVDn5GpfCwZJsTmnkuNgidwBkxrXukZqg4mQfo_4ZSewmQ?e=EquGJM">Airborne Laser Scanner<br>(ca 3 GB)</a></td>
     <tr>
       <td align="center"><img src="./pictures/Aerial/Drone.png" height="86" width="130"> </td>
     </tr>
