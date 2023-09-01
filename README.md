@@ -318,7 +318,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">IGI Multi-sensor, 5 views <br>6132x8176 px at Nadir, 50 mm<br>8176x6132 px at Oblique, 80 mm</td>
       <td rowspan="3",  align="center">City scale</td>
       <td rowspan="3",  align="center">Outdoor large scale, <br>Built-up and vegetated areas</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/NerFBK/Shared%20Documents/BENCHMARKS/NeRFBK_datasets/aerial/dortmund/Dortmund_LiDAR_GT.rar?csf=1&web=1&e=APRnF8" target=page>Airborne Laser Scanner<br>(ca 220 MB)</a></td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ESGlhZ1PH2JBpKGtMmcZsYEB2-9Pe8fcUMPpcS75D-_gjg?e=AHhpSp" target=page>Airborne Laser Scanner<br>(ca 220 MB)</a></td>
     <tr>
       <td align="center"><img src="./pictures/Aerial/aerial.png" height="97" width="130"> </td>
     </tr>
