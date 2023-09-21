@@ -92,7 +92,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
         <td align="center"><img src="./pictures/Industrial/Synthetic_Metallic_network.png" height="130" width="130"></td>
     </tr>
     <tr>
-      <td rowspan="12", valign="top"><strong>T<br>R<br>A<br>N<br>S<br>P<br>A<br>R<br>E<br>N<br>T</td>
+      <td rowspan="12", valign="top"><strong>T<br>R<br>A<br>N<br>S<br>P<br>A<br>R<br>E<br>N<br>T<br><br>and<br>R<br>E<br>F<br>L<br>E<br>C<br>T<br>I<br>V<br>E</td>
       <td colspan="1",  align="center">Glass</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EVP3CFI_2zVFrz3XiCgHr2oBQnCW4C9UAFy0Ma8inRRjdw?e=BB77RW" target=page>552</a><br>(ca 380 MB)</td>
       <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
