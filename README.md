@@ -144,7 +144,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EWXa8y1CzYJOtzKnk3aoSVYBs0UPBCuRdbYCa5SW1cqMtw?e=DayQYj" target=page>Synthetic data</a><br>(ca 6 MB)</td>
     </tr>
     <tr>
-      <td align="center"><img src="./pictures/Transparent/Syntethic_Glass.png" height="130" width="130"> </td>
+      <td align="center"><img src="./pictures/Transparent/Synthetic_Glass_new.png" height="130" width="130"> </td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Transparent/Synthetic_Glass_network.png" height="130" width="130"> </td>
