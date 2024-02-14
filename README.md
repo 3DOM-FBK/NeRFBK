@@ -153,7 +153,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="30", valign="top"><strong>H<br>E<br>R<br>I<br>T<br>A<br>G<br>E</td>
       <td colspan="1",  align="center">Doss Trento</td>
       <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EUz26UVqOBNPpAomuVvEYeUB3qM_IwOw545Ve9m5qBr49A?e=n3UdGu" target=page>761</a><br>(ca 150 MB)</td>
-      <td rowspan="3",  align="center">Huawei p20pro, <br>1920x1080 px</td>
+      <td rowspan="3",  align="center">Huawei p20pro, <br>540x960 px</td>
       <td rowspan="3",  align="center">2500x2500 <br>x1500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
       <td rowspan="3",  align="center"><a href=""></a>Terrestrial Laser Scanner<br>(ca xx MB)</td>
