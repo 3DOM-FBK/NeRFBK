@@ -156,7 +156,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
       <td rowspan="3",  align="center">Huawei p20pro, <br>540x960 px</td>
       <td rowspan="3",  align="center">2500x2500 <br>x1500</td>
       <td rowspan="3",  align="center">Outdoor large scale</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/BENCHMARKS/Shared%20Documents/NeRFBK_datasets/heritage/Doss_trento/Doss_Trento_GT.zip?csf=1&web=1&e=MiMdnP" target=page>Terrestrial Laser Scanner</a><br>(ca 3 GB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/EXhX9Egfa39Isy9LpfqukEwBv_ORDte3SvMhZMsixmbGfw?e=NB97Xg" target=page>Terrestrial Laser Scanner</a><br>(ca 3 GB)</td>
     </tr>
     <tr>
       <td align="center"><img src="./pictures/Heritage/Doss.png" height="112" width="130"> </td>
