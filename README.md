@@ -38,7 +38,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
     <tr>
       <td rowspan="12", valign="top" ><strong>I<br>N<br>D<br>U<br>S<br>T<br>R<br>I<br>A<br>L</td>
       <td colspan="1",  align="center">Industrial_A</td>
-      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/r/sites/BENCHMARKS/Shared%20Documents/NeRFBK_datasets/Industrial/Industrial_A/images/industrial_A_images.zip?csf=1&web=1&e=JpPOXR" target=page>295</a><br>(ca 200 MB)</td>
+      <td rowspan="3",  align="center"><a href="https://fbk.sharepoint.com/:u:/s/BENCHMARKS/ERVOA91ETFJNtw141SOr5zEBkfwsOpRMJxemXypER5TOaw?e=r18fho" target=page>295</a><br>(ca 200 MB)</td>
       <td rowspan="3",  align="center">Huawei p20 pro, <br>1080x1920 px</td>
       <td rowspan="3",  align="center">5x5x4</td>
       <td rowspan="3",  align="center">Textureless, <br>Small and Complex, <br>Reflective, <br>Video</td>
