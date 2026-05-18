@@ -20,7 +20,7 @@ If you use these data and you publish any result, please acknolwedge this reposi
 - Ziyang Yan, Gabriele Mazzacca, Simone Rigon, Elisa Mariarosaria Farella, Pawel Trybala, Fabio Remondino, 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/219/2023/" target=page>NERFBK: A HOLISTIC DATASET FOR BENCHMARKING NERF-BASED 3D RECONSTRUCTION</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 219–226
 
 ------------
-## Datasets - Downloading available
+## Datasets - Downloading available (poses also available, please ask to receive them)
 <div style=”text-align: center;”>
   <table   style=”margin: auto;” width=’80%’>
   <thead>
